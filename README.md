@@ -8,3 +8,6 @@ The **ipynb** file is the jupyter notebook file that I used to create the progra
 Run the **ipynb** file to generate all the **pickel files** and then run the ***RSB_streamlitApp.py*** file to run the program.
 
 I have also attached the **requirements.txt** file which contains all the libraries that are required to run the program.
+
+Here is the Preview of the Application Layout:
+![Preview of the Application Layout](Preview.png)
