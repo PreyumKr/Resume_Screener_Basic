@@ -1,0 +1,62 @@
+‘John Smith
+
+‘Addease phone number{ email
+
+Objective
+‘Seeking a summer Electrical Engineering internship at your company, where I can ute skills teamed
+‘rom insttution and build experience A hard working and a good team payer always ready to lear,
+
+Education
+
+‘STATE UNIVERSITY
+‘Expected to graduate May 2020
+Major: Electeal Engineering
+‘Minor: Applied Mathematics
+Related coursework: Electronic Cireuit Analysis Semiconductor Devices Microprocessors,
+lecromagnetic Feld, Signals and Systems, Random Signals and Noise, Energy Conversion
+
+ 
+
+Skills & Abilities
+‘Computer Skills:
++ Embedded ARM + Multsim
+2 oe MATLAB
+
+2 Arduina
+
+ 
+
+1 Microsoft Office, Exc
+
+‘TeaMWORK|
+‘A great team player able to efficiently communicate with others always ready to ask or respond thelp
+
+to complete goals with postive attitude,
+
+HARD WORKING
+‘Amotivated lamer alvays wiling to leara new technologies and work very hard to ae
+
+ 
+
+given task
+
+Projects
+‘Multisim Simulations
++ Builtand simulated Thevenin and Norton equivalent circuits, iode circuit, and PMOS transistor
+slectroniccituite on Multisim. For Thavenin and Norton equivalent cists and diode siete,
+anslytic solution was compared o simulation, For PNOS electronic cits, parameters ware
+‘modified ro make change in V curve
+Band Stop Filter
+Asa group project for lectronic Circuit Iwas responsible for demonstrating band rejection
+‘tert ter out specie equency range to show how the ftr eat be used to getrid of
+‘unwanted frequencies. low pass filter and hgh pass filter were connected in parallel causing
+attenuation at unwanted fequency range,
+
+Experience
+[MATH TUTOR | COMMUNITY COLLEGE | JAN 2018 - SEPT 2017
+Assisted student o solve problems themselves, prepare forthe test, and comprehend class materials,
+
+EXAM PROCTOR | COMMUNITY COLLEGE | SEPT 2017 - CURRENT
+‘Worked with professors to cneate appropriate environment fr testing center, ncressing efficiency of
+‘esting process and encourage students to succeed in the cass.
+

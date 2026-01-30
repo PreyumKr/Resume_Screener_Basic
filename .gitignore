@@ -1,1 +1,13 @@
 .venv
+ResumeDataset
+Combined_Resume_Dataset.csv
+Combine_datasets.log
+LLM_COMPLETE_WORKFLOW.md
+llm_finetune_check_system.py
+llm_finetune_export_gguf.py
+llm_finetune_inference.py
+LLM_FINETUNE_SUMMARY.md
+llm_finetune_train.py
+LLM_FINETUNING_README.md
+llm_finetune_prepare_data.py
+QUICK_REFERENCE.md

@@ -1,0 +1,179 @@
+SUMMARY
+
+ 
+
+SKILLS
+
+EXPERIENCE
+
+ 
+
+EDUCATION AND
+TRAINING
+
+ 
+
+Jessica Claire
+
+100 Montgomery St. 10th Floor %2 (555) 432-1000 4 resumesample@example.com
+
+T+ years of professional IT experience in design, develop, build and deployment of web applications. 3+
+years in practicing DevOps, Cloud Automation & Quality Engineering
+
+‘+ Extensive experience in setting up CCD + Strong exposure to configuration management
+pipelines using tools such as Jenkins, tools such as Terraform, Ansible and Puppet.
+Maven, Docker, Nexus, Artifactory, Slack» Strong knowledge on practicing TDD,
+and Azure pipelines automating Junit tests using Maven in Jenkins
+
++ Extensive experience in distributed Agile and» Strong knowledge in Tomcat, WebLogic servers
+‘Scrum methodologies to develop best practices on different Operating Systems like Windows,
+for software development and implementation Linux VMware, UNIX and Solaris platforms.
+
+‘+ Strong experience in migrating applications to» _—Participated in the release cycle of the product
+both AWS and Azure cloud platforms which involved environments like
+
+‘+ Strong experience in working with version control Development, QA UAT and Production
+systems such as Git, GitHub, Bitbucket, + Worked with project documentation and
+Azure Git documented other application related issues,
+
+‘+ Experience working with developing scripts and bugs on
+automation tools used for building, internal wiki website
+integrating and deploying software + Ahighly motivated, energetic individual, a team
+releases to multiple environments. player with excellent communication and
+
+‘+ Strong hands on experience in scripting inter-personal skills Platform evaluation
+languages such as Groovy, JSON, YAML, + Strategic project planning
+Ruby, + Task prioritization
+
+Shell scripting
+
+‘+ Strong experience in code quality and code
+coverage tools such as SonarQube, JaCoCo
+and
+JUnit.
+
++ Good knowledge of virtualization and container
+technology like Docker. Experience in
+creatingDockerfiles and working with Docker
+containers
+
++ El Have good knowledge in Kubernetes and
+have setup clusters in Amazon EKS and AKS.
+
+Direct server support
+
+DEVOPS ENGINEER 05/2021 to CURRENT
+xylem Ine. | Tinley Park, IL
+
+‘+ Automated application build and deployment, driving efficiency of code development process
+
+‘+ Leveraged Agile methodologies to move development lifecycle rapidly through initial prototyping to
+enterprise-quality testing and final implementation.
+
+‘+ Extensive experience in setting up CI/CD pipelines using tools such as Jenkins, Maven, Docker,
+Nexus, Artifactory, Slack and Azure pipelines
+
++ Extensive experience in distributed Agile and Scrum methodologies to develop best practices for
+software development and implementation
+
+‘+ Strong experience in migrating applications to both AWS and Azure cloud platforms
+
+‘+ Strong experience in working with version control systems such as Git, GitHub, Bitbucket,
+Azure Git
+
+‘+ Experience working with developing scripts and automation tools used for building,
+integrating and deploying software releases to multiple environments.
+
+‘+ Strong hands on experience in scripting languages such as Groovy, JSON, YAML, Ruby,
+Shell scripting
+
+‘+ Strong experience in code quality and code coverage tools such as SonarQube, JaCoCo and
+JUnit.
+
+‘+ Good knowledge of virtualization and container technology like Docker. Experience in
+creatingDockerfiles and working with Docker containers.
+
++ Have good knowledge in Kubernetes and have setup clusters in Amazon EKS and AKS.
+
+‘+ Strong exposure to configuration management tools such as Terraform, Ansible and Puppet.
+
++ Strong knowledge on practicing TDD, automating Junit tests using Maven in Jenkins.
+
+‘+ Strong knowledge in Tomcat, WebLogic servers on different Operating Systems like Windows,
+Linux VMware, UNIX and Solaris platforms.
+
+‘+ Participated in the release cycle of the product which involved environments like
+Development, QA UAT and Production.
+
+‘+ Worked with project documentation and documented other application related issues, bugs on
+internal wiki website
+
++ Ahighly motivated, energetic individual, a team player with excellent communication and
+inter-personal skills
+
+AZORE CLOUD ENGINEER 08/2016 to 04/2021
+Alvarez & Marsal | Los Angeles, CA
+
+‘+ Setup repos on Azure Git, merging code from develop branch to master branch and make it ready for
+deployment.
+
+‘+ Migrated legacy applications to Microsoft Azure Cloud PaaS by setting up CI/CD pipelines
+onAzureDevOps
+
++ Created WebApps (PaaS solutions) on Azure portal for deploying web applications using Azure
+DevOps pipelines.
+
++ Setup AKS clusters in Azure using Azure CLI
+
++ i Created nightly builds with integration to code quality tools such as SonarQube, Veracode.
+
+‘+ Helped teams to reduce defects rate by 30% by introducing TDD in first 3 months
+
++ Created quality gates in SonarQube dashboard and enforced in the pipelines to fail the builds
+when conditions were not met.
+
+‘+ Set up the SonarLint plug-ins in developer's workstation for detecting defects early during
+development.
+
+‘+ Built and deployed Docker containers to break up monolithic app into micro services,
+improving developer workflow, increasing scalability, and optimizing speed
+
+‘+ Implemented Release management workflow for QA, UAT and Prod environments
+
+‘+ Prepared and presented SCM best practices for implementing continuous integration for the
+team
+
+JACA DEVELOPER 04/2014 to 07/2016
+Publicis Groupe Sa | Overland Park, KS
+
+‘+ Effectively engaged with full programming improvement lifecycle: from business/frameworks
+investigation, through necessities gathering and practical detail composing, to advancement, testing
+and conveyance
+
++ Composed and created UI screens utilizing HTMLS, CSS3, JavaScript, JSON and AJAX.
+
+‘+ Created custom Angular JS mandates to assemble custom reusable segments to use over the
+application pages.
+
++ Utilized Spring Beans to embody business rationale and Implemented Application MVC
+
+Architecture utilizing Spring MVC.
+
++ Planned and created Rewards API utilizing Spring Boot,
+
++ Utilized Spring AOP for logging for crosscutting worries of the application
+
++ Created server-side application to associate with database utilizing Spring Boot and Hibernate.
+
++ Utilized Spring XML setup for Dependency Injection
+
+‘+ Created segments of REST web administrations end to end, utilizing distinctive Annotations.
+
++ Created complex administration segments for Data Access Layer, DAO classes to
+communicate with backend utilizing Java and Hibernate Framework.
+
++ Utilized Maven for assemble structure and Jenkins for persistent form framework
+
+Bachelor of Science | Civil Engineering 12/2017
+Landmark University , Nigeria
+

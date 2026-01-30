@@ -1,0 +1,56 @@
+Samyabrata Roy _ SAP HANA BW CONSULTANT Mob No : 4917760611443
+
+1.r0y@ gmail.com
+
+(Career Summary
+
+Around 4.11 years of experience ia inplementing Business Intelligence and Dua Warcousing solutions using
+
+SAP HANA , BW 7.377.400 HANA.
+‘Have worked on SAP HANA
+
+Having experience ia SAP BODS SAP BO (DT Webi ,Exlorer , Design Studo) and SAPLumira
+Ably to understand the business envionment and transla busines equiements into technical sobitions.
+‘Beellet analytical, problem solving iateypersonal klk.
+
+ 
+
+Summary of Qualifications
+
+Bachelos of Computer Applications, 2008-2011 , Bangabe University, India
+‘Masters of Technolgy (Computer Appliations). 2011 ~ 2015 BITS Pian ndia
+
+ 
+
+“Technical Fiperiene
+
+SAP BW on HANA :Bperice in modeling using LSA++ atchiecture . Modeling using new Info
+[poviders ADSO(Used it as Standard Wrte Optimized, Corporate byer propagation layer ete) and Open
+‘ODS view and ODP. Used Infomation mode in BW a transient provider and created Reports. Have
+Geated Viral, Hybrid and Composite info rovilers to accommos:te Hana Views in BW on HANA 1 be
+‘sed forrepomtiag on BW 73 on Hana Have Worked with ABAP on Feld Routines, End & Stan Routines
+TBpenise an Bex Query Designer. Knowledge of SAP Hana Dynamis Tieng and SAP BW NLS
+
+SAP HANA Modelling :Eipenise in creating various lafomation Model the Atsibut, Amalie and
+Cakubted Views. Using CE Tunetions and SQL Script for creating complex Calulaton Views. Decision
+{ables to accommadate business bie on the fly and then aecommodatingthemin Views
+
+Procedures, decision tbls and eakubted colums. Good exposure and hands on experience with Data
+[Repleation scenaribs of SAP HANA which ice BODS 42 (ET Exraction) and Ft fs. Consuming
+SAP Hana views on IDT to deliver business byer using web intelligence and have provenespesince With
+reporting speciily handling complex sconari's using joins and SqLSin Data Access.
+
+[Bpatence of ceating Row and Colin based bles based on usage
+
+(God knowkdge on SAP BODS conscctviy’s, etmtions and loading into HANA Database and BODS,
+‘core functionalities like Jobs creation and daa transfer methodologies and Repository managements
+Knowledge on SAP HANA Data Provisioning using SAPLT Replication Server (SLD)
+
+SAP ECC :10 COPA Conese Burction, Creation of Css, Characteistis and Baracton of datato BW
+
+SAP BODS 42 ‘Created BODS jpbs . WorkFous . Datalows , Scripts and worked with Tansforms to
+pull data fom non-SAP system,
+
+SAP BO Design Studlo-Cested Conections , Data Foundation , Business layers Webi Repons
+[Bpbrer Infomation Space and Exploration vw set, Have creed Analytical Application on Design
+‘Studio based on Bex Query. Knowledge and Hands on with SAP Lamia 129

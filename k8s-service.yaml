@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: resume-screener-service
+  labels:
+    app: resume-screener
+spec:
+  type: LoadBalancer  # Creates external load balancer
+  selector:
+    app: resume-screener
+  ports:
+  - protocol: TCP
+    port: 5000          # External port (what you access from outside)
+    targetPort: 5001    # Internal container port
+    name: http
+  
+  # Session affinity (optional) - routes same client to same pod
+  sessionAffinity: ClientIP
+  sessionAffinityConfig:
+    clientIP:
+      timeoutSeconds: 10800

@@ -1,0 +1,60 @@
+ROBERT SMITH
+Sr. Sap Abap Developer
+
+Phone: (0123) 456.789 | Emai: inlo@qwksesume.com | Wobsie: Qwikresume.com
+‘SUMMARY,
+
+ABAPIMDG (10+ years) expert accountable for Solution developments, technical leadership in the
+zones ol application management, infrastructure, application integration, transport movements,
+‘security & authorizations, User Acceptance Testing & cutover activities lor SAP implementation &
+Production Support projec in Health care, consumer goods , Apparel, Fashion , Manufacturing &
+logistics socio.
+
+CORE COMPETENCIES
+ABAP, ABAP WebDynpro, RICEF's [ALV Reports; Module.
+
+PROFESSIONAL EXPERIENCE
+
+Sr. Sap Abap Developer
+‘ABC Corporation - May 2007 - April 2020
+
+Key Deliverables:
+
+*+  Moditied ABAP programs to add an email option tothe soll and repon programs,
+
++ Created ABAP program Charge Paragon Credit Cards thu JetPay program io send Credit
+Card authoration a JerPay,
+
+++ Moniored a team of developers to track and validate their developments and reinforce the
+‘quality of dolverables,
+
+‘+ Formulated requiremant and pricing routines to calculate sales representative
+
+Enhanced the biling document defined for replenishing delverias and consignments
+between european union counties:
+
+* Developed sap data migration tools lor materials, cusiomors and sales orders&irsquo; data
+tostreamline ciont&squo's procurement process:
+
+‘Communicated with tunctional corsullants and kay stakeholders to improve supply chain
+management, demand tulltment, and.
+
+‘Sap Abap Developer
+Delia Corporation -2004 - 2007
+
+Key Doliverabies:
+
+‘+ Developer Manager (SAP ABAP) Functional/Technical Specs coordination Create
+inboundioutbound intertaces for SAP (HR/SD/MM FCO) implementation
+
+* Leadership role response for development objects review and Transaction code
+maintenance Create inboundioutbound interfaces for SAP 4.80 (SD/MMIFL
+
++ Florida Crystals Corp Project Rasponsibe for maintenance, analysis, and development of
+on line and Interactive reporting, SAP 4.8, SD, MM, and HRV
+
+Developed intariace forleading HA! Payroll master data between legacy system and SAP.
+Dil down and interactive reporis HR (PAVPD), Fl (GLIAPIAR},
+
+"2250 Oak Street, Old Forge, New York. 13420
+(© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines

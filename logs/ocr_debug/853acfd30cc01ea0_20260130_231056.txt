@@ -1,0 +1,61 @@
+ROBERT SMITH
+Network Security Engineer
+
+Phone: (0123) 456.789 | Emai inlo@qwkcesume.com | Website: Qwikresute.com
+‘SUMMARY,
+
+‘Over 7+ Years of extensive hands on experience in Network and Securly engineering and
+‘Notwork Infrastructure, Strong understanding and experience of Firewall on various platforms,
+‘Managing and implementing remote firewall for State agencies using NSM, SPACE, Smart
+Dashboard and CSM. Configuration of new juniper SRX tirewall for remote ste implementation,
+‘Worked cisely withthe customor to suggest the need of trewallrules, help them design tho
+request,
+
+CORE COMPETENCIES
+GISSP, SCOM, ACAS, HBSS, Project Management.
+PROFESSIONAL EXPERIENCE
+
+Network Security Engineer
+‘ABC Corporation - October 2010 ~ November 2011
+
+Koy Deverabios:
+Travaled to remote sites forthe Navy Marine’ Comps Intranet instaling and configuring
+seounity systems per specified DoD regulations
+
+* Bull and instaliod Neiscreen VPN dovicos using Personal Koy Infrastructur,
+
+* Worked with Solaris Sun boxes and Del! servers setting up intrusion Detection Software
+such as Manhunt,
+
+* Veriied tunciionalty and compliance through simulated network atiacks,
+
+Installed, configured, and tested davioes to contac to the NMC network te inelude
+Foundry Load Balancers, Raptor Firewall, Juniper NetScreen §X/204/500:5200 VPNs,
+Symantec Manhunt [DS, Cisco IDS, and Windows 2000/2003 Server base builds
+
++ Porformed vulnerability assessmant on all network dovices using tools such as ISS Intemet
+Scanner, Retina, Nessus, and Microsatt Baseline Security Analyzer
+
+» Clsely reviewed DISA STIGS to make sure seivers were properly hardened, and
+‘developed code to test ll requirements,
+
+   
+
+Network Security Engineer
+‘ABC Corporation - 2009 - 2010
+
+Koy Deliverables:
+‘3 month contract) Responsbllties User admin on he frewalls RSAM, adding and deleting
+users as they come and go.
+
+Manage ISAM lor submit firewall exception, romoval.and approval
+
++ SAM allows lor automation and continuous risk monitoring of crical information assots
+andsysiems,
+
+* Provided proactive threat dafense with ASA that stops attacks before they spread through
+the netwerk,
+
+12250 Oak Street, Old Forge, New York. 13420
+‘© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines
+

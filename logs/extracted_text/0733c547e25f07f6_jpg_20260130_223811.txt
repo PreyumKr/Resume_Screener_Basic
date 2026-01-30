@@ -1,0 +1,57 @@
+Robert Smith Phone (123) 456 7899
+
+Email iniamqvekresune.com
+Website : yvay.cyikresume, com
+
+Database Developer Linkedin: linkedin.com/qwikresurne
+‘Address: 1737 Marshville Road, Alabarna
+
+SUMMARY
+
+Database Developer with over 5 years of experience in troubleshooting, debugging, performance
+tuning, requirements gathering, implementation and production suppor, and translating client
+requirements into Production Database processes using Oracle 11g, 109,91, SQL, PL/SOL,
+Dynamic SOL, SOL Plus. Excellent in Oral and Written communications,
+
+SKILLS
+
+PLISOL, Oracle Database, Oracle Forrns And Report, Cognos 8 And Unix Script
+WORK EXPERIENCE
+
+Database Developer
+Newark Electronics / Element 14 - November 2012 ~ May 2014
+Supported the development from design through production release, utilizing Oracle
+database, Dynamic PLISOL, SQL, Unix shel scripting, SOL loader,
+Code testing following TOD practices including maintenanceicrestion of unit tests and
+Collaborating with functional and non-functional test teern members to ensure quality output
+labor ation of functional requirements provided by the business including working with a
+cross-functional team of product owners, business analysts, project managers, QA testers and
+technical designers,
+Collaborating with technical specialists during creation ofthe functional requirements
+document
+Data migration project migration of modules such as accounts, Users, equotes; buy, and
+orders from ata to websphere commerce database,
+Creating the database objects such as packages, procedures, functions, tables, views,
+external tables and unix scripts to migrate the data,
+Code testing testing the requirements functionality and prepared unit testing according to
+requirements,
+
+Consultant (Programmer/Analyst)
+Inteisys Consuking inc - October 2009 - july 2012
+Reported analysis and design, wrote report requirernent specification for reports that will be
+develop 9s part of the new solution,
+Reported development using pl/sql and cognos & develop and maintain reports objects tke
+Store procedtres, functions, materialized views, views, tables and reports,
+Provided training to software developers employees
+Established and maintained the backup schedules and processes for all databases,
+troubleshoot production problems ond performed tuning of databases
+Researched new technologies, made recommendation tools and procedures for increased
+infrastructure performance
+Created tables, createdimodified ssis packages that would allow notify clients to view all onder
+confirmations right away before the conversion,
+lead multiple developers and coordinated rollouts to muiiple environments (development,
+4a, and production),
+
+EDUCATION
+
+(© This Fete Resting Template the copilgh of Qwikeaume ccm: Uaage Gilding

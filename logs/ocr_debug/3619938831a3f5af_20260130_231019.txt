@@ -1,0 +1,59 @@
+Network Security Engineer anf rs
+
+ROBERT SMITH _ ——.
+Address 1737 Marshvle Road,
+
+ 
+
+Objective
+
+Experience and skills managing and providing engineering expertise for network engineering
+programs and projects through all phases of the systems development ife cycle. Furthermore he
+has in-depth knowledge of Service Provider and Enterprise business models, architectures and
+‘Solutions with emphasis on: System Integration & Design, Strategic & Tactical Network Planning,
+‘esting & Troubleshooting, and Network & Project Management for Telecornmunications and Data
+networks,
+
+si
+
+ 
+
+ForeScout, Palo Alt,
+Work Experience
+
+Network Security Engineer
+Freedom Partners Shared Services - February 2014- 2019
+Responsible for reviewing, testing, Samp: implementing all security controls for 20.non profit
+organizations with « total of 1,500 users and over 4,000 end devices.
+Responsible for driving vision and laying out raadmap for security technologies Responsible
+for developing averall strategy and Implementing different securty technologies including
+VPN audit security gap analysis and working with vendors to Implementing desired security
+controls
+Assit in the arlministration of user access and privileges to applications/systems, ensuring
+that access requests are properly authorized, appropriately documented, and accurately
+fulfed,
+‘Troubleshoot user access Issues, including determining cauise and implernenting resolution.
+Assist in the implementation oflagical user access polices, standards, and guidelines that
+balance business requirements, risk tolerance, and the cients policies
+Assist users and managers in thelr efforts fo establish and maintain adequate auult tralls so
+that sufficient evidence of computerized business activities exists to reconcile accounts, to
+detect frauds, to quickly resolve problems, and ta otherwise maintain secure and reliable
+Information systerns
+Responsible for preforrning firewall vulnerability testing and reporting,
+
+Network Security Engineer
+‘ABC Corporation - 2013 - 2014
+Manage WAN providing internet access to 22 districts in Texas and 14 remnate sites aver MPLS
+etw ork utilizing circuits from multiple providers and serving a total of @Gbps of internet
+
+bandwidth to customers using Cisco equlpment.
+Designed, conf ured, and deployed redeslaned LAN for central facilty to provide enhanced
+connectivity and optimal user experience
+
+Responsible for configuring and deploying Windows and VMware servers
+
+Worked extensively wlth CTO on budget as well as designing offerings for the school districts,
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines
+

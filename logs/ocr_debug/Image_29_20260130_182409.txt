@@ -1,0 +1,66 @@
+ 
+
+ 
+
+ROBERT SMITH
+Sr. Network Security Engineer
+
+en dO qutimncccom hs i da
+
+Network engineering professional with a wide range of etwork/secuity experience along with extensive
+serverand workstation implementation and trubleshooting, lmovative problem solving and team
+Buileng/Leadership abilities.
+
+SSUES
+
+Spor, Miewsalt Windows, DISA Gold Disk, Microsoft Office Professional, TCP/IP, Unix, Redhat Lino,
+‘Stealihwatch, NetQaS, Cisco 10S Routers 7200, 7600, Cisex Pix, Sidewinder, FWSM, ASDM, VMS,
+PALO ALTO Firewalls, Vyata Firewalls, Active Dirsctory.
+
+WORK EXMERIENCE
+
+Sr. Network Security Engineer
+[ABC Componation - April 2007 - November 2011
+
++ Implement access cant and manage rule-ses/ filers on specie ports, IP addresses, or custamer-
+defined events,
+
+* Install ant upgrade software applications (UNIX and Windows) ae hardware components to new
+andlor existing IDS and Firewalls
+
+‘Administer and maintain unique datahases through SQL, Shell Scripts and other commercial tools
+
++ Anilysis of IDS packet dita, with comprehensive understanding of switching and routing: broad
+‘nderstnding of hacker methodologies and Soon IDS signature development,
+
+‘Troubleshoot und maintain of 256 SDP Routers and ensure confidentiality, integrity and availability
+for those networks,
+
+1 Experience with network vulnerability assessment tools Experience in paliey and procedure
+development.
+
+* Conduct isk and vulnerability assessments of planned and insulled information systems 19 idem
+‘vulnerabilities risks, and protection needs hefore implementing into production envimament
+Configuration, maintenance and management of Blue Coat web praxis on an Enterprise Level
+Performed STIG checks ind remediate findings on Gateway and IMS devices to ensure compliance
+‘with DISA Standards
+
+Network Security Engineer
+ABC Corporation - 2004-2007
+
+1 Traveled to remote sites fr the Navy Marine Corps Intranet installing andl configoring security
+systems per specified DoD regulations
+
++ Boiltand installed Netsercen VPN devices using Personal Key Inrastmctne
+
+‘Worked with Solaris Sun bones and Dell servers setting up Intsion Detection Stare sch ss
+Manta,
+
+1 Verified functionality and compliance through simolated network attacks
+
+(© This seems Tamla he copy of Qwitrwme com, Las Gals
+
+ 
+
+ 
+

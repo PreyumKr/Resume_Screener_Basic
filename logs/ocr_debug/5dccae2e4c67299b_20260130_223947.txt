@@ -1,0 +1,67 @@
+ 
+
+ 
+
+ROBERT SMITH
+Volunteer Data Scientist
+
+ni do getimncecon hn i das
+
+Have hinds on experience in writing MapRedce jobs using lv, Managing Single ode and Malti node
+(Cluster Configurations. Writing Pig Latin sips and pig commands, Configuring Zon Keeper, Cassanda &
+Plume tothe existing hudoop cluster. Experience in building predictive models using machine leaming
+techniques. Performed importing and exporting data into HDPS and Hive using Sqoop, Hive quevies.
+
+Python, Matlab, Gi, Data Analysis, Dat Mining, Machine Leamig, C44, Latex Java Scala, HTML,
+Hiadoop, SQL
+
+WORK EXIERIENCE
+
+‘Volunteer Data Scientist
+[ABC Comporation -Janwary 2015 — May 2015
+
+Analyzed MTA suhway data and Now York City census data to determine traffic lays and
+demographic patterns of New York City.
+
+* Use Beautiiel Soup to scrape publicly available movie datuto better understand the relationship
+between box office perfonmance and distribution company.
+
+Using seit lear, ran linear regression and built a madel of box oice performance,
+
+Based on model, identified two distribution companies whose revenue ot perfosmed peers
+
+Used mutplotiy and reveals to communicate results of esearch,
+
+Project McNulty Setup SQL dauhase an onl server, toring clients data far query analysis:
+
+Used Pythons seikit- lear library to understand details of client telemsrketing campaign
+
+Data Scientist
+"ABC Corporation - 2010-205
+
++ Coin jn iading
+
++ PLANT LEAP SPECIES CLASSIFICATION Batata! neural nctwork to caret clasify
+pont tf pio tig Bay tage and’ prbulline eeweekoP magi spe ea eine
+fetus.
+
++ Technologies sed Python, Nonny Pas, Skit Lar, Spy, Ker 2.
+
++ CUSTOMER POTENTIAL PREDICTION Crate  clasifiation model tt Wenitiescstomers
+svt th ight potential bosiness vale hae teicher nd avi
+
++ Technlogies ed Python, Nonny, Pa, Ssikit-Learn, Xho 3
+
++ MOBILE USER DEMOGRAPHICS CLASSIFICATION But melt red wsers
+dkmogrphie charade hased on heir app ase, goleston and mil device rope.
+
++ Techologies sed Python, Norm, Pa, Sekit-Lear, Seip, Ker.
+
+ 
+
+a: Hiss the copyright of Qvikesme com Ras alsin
+
+ 
+
+ 
+

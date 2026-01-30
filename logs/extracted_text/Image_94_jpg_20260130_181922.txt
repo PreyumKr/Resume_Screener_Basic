@@ -1,0 +1,59 @@
+ROBERT SMITH
+Junior Java Developer/Systems Engineer
+
+en dO qutimncccom hs i da
+
+Junior Java Developet/Systems Engineer with around 4+ years of experience in Systems Analysis, Design,
+Development and Implementation of Web and ClieniServer ani Enterprise Application development using
+DEE Framework, Extensively worked on n-tier architecture systems with application system development
+‘sing Core Java, JDBC, Servlets, ISP, EJB, 1MS, Web services, Restful Web Service, Spring, Spring boot,
+Sinus MVC, ISP, Hibernate
+
+SSIES
+
+DEE Technologies Seles, JSP, Struts, EJB, JDBC, INDI, JMS, RM, JAXB, JAN-WS, CXF. Framework
+Spring, Sins, Hibernate 3.0.x, Junit
+
+WORKENPERVENCE
+
+Junior Java Developer/Systems Engineer
+‘ABC Corporation - 2015 ~ Present
+
+ 
+
+Involved in requirements gathering, alysis and design and dacomentation asthe application was
+started fom scratch,
+
++ Developed various j2ee components like servlets, JSP.ISTL, Ajay,
+LDAP. IMS, and MQ series by using md.
+
+Used Sirs/MVC framework to enable the interactions etwen ISP/View layer and implemented
+itferent design patterns with J2EB.
+
++ Implemented busines layer using core ava, spring beans using dependency injection, spring
+nneations, spring web-flow components
+
+Implemented agent server messaging dialog using camel and JMS (active MQ implementation}
+
+‘+ Settupa Jenkins server and build johs to provide automated builds based on poling the git source
+‘conta system,
+
+*+ Developed custom solutions tht act upon Jenkins information in real-time.
+
+ 
+
+VAX, XSLT, JAXP, INDI,
+
+Java Developer (Contractor)
+‘ABC Corporation - March 2010 — April 2011
+
+Involved in handling coding, testing and integration and quality assurance activities.
+Performed event-driven asynchronous io using Node.Js, developed sewens using JSP, struts
+Performed unit testing using JUnit test cases to test the behavior ofthe coded clases
+Provide development support for system integration testing and user acceptance testing.
+Lead the team toward crafting new user experiences that exceed customer expectatans
+Suggested areas for improvement in intemal processes along with posible soltions.
+
+‘This is Dummy Description dit, Replace with job description relevantto your eunentrole
+
+(© This seems Tamla he copy of Qwitrwme com, Las Gals

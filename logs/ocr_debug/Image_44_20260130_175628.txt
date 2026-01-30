@@ -1,0 +1,80 @@
+Robert Smith SontacLoemas
+
+1737 Marstullle Road,
+Alabama
+
+Data Scientist Trainee (123)-456-7890
+Info@aquikresume.com
+srwwewikresume.com
+
+PERSONAL STATEMENT
+
+‘p obtain a position as a Data Architect in a collaborative environment ‘SKILLS
+Utlzing my creativity and technical skis. The position must demand ahigh Data Architecture, Data
+degree of self-motivation and the abilty to drive data- centric solutions for delta,
+complex business problems. | most enjoy solving problems that require my Modeling Blg}Pata, Sat.
+data modeling, analytics, and Solution architecture expertise.
+
+LanGuaces
+
+WORK EXPERIENCE
+English (Native)
+
+Data Scientist Trainee French (Rrofessional)
+
+ABC Corporation- March 2014 - April 2016 Spanish (Professional)
+
+Re sponsibities:
+* Business Opportunity Network Kinetix provides Business Assurance and —_NTERESTS:
+Revenue solutions to mobile caries, enabling nonintrusive accessto
+Ie network trac for nmedate analysis, dedsins, end action n Cae
+reverue-impacting events, ecoktna
++ Examples include Froud Detection (international Revenue Sharing Reading
+
+Fraud, Identity Fraud, SIM Bax By-Pass Fraud), 911 Outage, Network
+Operations, and Customer Experience.
+
++ My Contributions Model complex mobile carrier problems through using REFERENCES
+statistical, algorithmic, mining, and visualization techniques.
+
++ Roduce operable insights using supervised andunsupervised machine _‘eetence-1 (Cornpary
+
+Name)
+learning Reference - 2 (Company
+' Integrate live data from rutiple network protocols, Name)
+
++ Create live data analytics applications that make data-driven decisions
+fon each event as it enters the data pipeline based on rules discovered
+through machine learning
+
++ Deployed on the HP Helion Public Cloud demonstrating a scalable cloud
+version of network data analytics application,
+
+Data Scientist
+‘ABC Corporation - 2012 - 2014
+responsibisties:
+
++ Worked on, multiple projects to leverage statistical learning/machine
+learning algorithms to automate Alternate Asset Servicing
+
++ The automation helped NT to reduce errors and improve operational
+efficiency.
+
++ Further, developed al reports that provided predictive analytics &
+Reporting with dashboards on analyst performance, client activity,
+future workload & anomalies based on data collected from discrete
+‘applications.
+
++ Defined Project Scope, project Charter & Business Case Prototype
+machine learning algorithm for POC (Proof Of Concept) Performed Data
+Cleaning, features scaling, features engineering, Developed predictive
+models for use In machine learning platform using the scikitlearn
+python framework Improved statistical models using learning curves,
+parameter curves, feature selection, and regularization,
+
+‘+ Perforrned ad-hoc data analysis for customer insights using hlve on.
+
+1 Ths Ema Resume Tamla ithe copynght of Qkesure cor. Usage Gulden
+
+ 
+

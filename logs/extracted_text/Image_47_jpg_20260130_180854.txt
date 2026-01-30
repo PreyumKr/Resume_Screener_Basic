@@ -1,0 +1,59 @@
+Phone: (123) 456 78 99
+ETL Developer mal Infoequleresure.com
+
+ROBERT SMITH * ass tao
+Address: 1737 Marshvile Road
+
+ 
+
+Objective
+
+Over 8+ years of experience in Inforrnation Technology with a strong back ground in Analyzing,
+Designing, Developing, Testing, and Implementing of Data Warehouse development in various,
+domains such as Banking, Insurance, Heelth Care, Telecom and Wireless,
+
+Skills
+
+Microsoft SOL Server 2005, 2008, 2012, Oracle 106 and Oracle 11, SQL Server BIDS, Microsoft
+Visual Studio 2012, Team Foundation Server, Microsoft Visio, Toad for Oracle, Tead for Data
+Modeler, Peoplesoft CRM
+
+Work Experience
+
+ETL Developer
+‘ABC Corporation -lanuary 2020 - February 2011
+Involved In understaneling the business requirements and translate them to technical
+solutions.
+Worked for preparing design documents and interacted with the data modelers to understand
+the data madel and design.
+Created new mappings and updating old mappings according to changes In Business tole
+Involved In ralarating project frorn LAT to Production,
+Seiting up of the local informatica environment on the client machines which Included the
+Connectivity and access ta the data sources, taking the necessary steps ta set Up the
+Relational Connectivity variables in the Workflaw manager etc.
+Created XML targets based on various non KML sources.
+Generated sequence numbers using Informatica lagic without using the sequence generator,
+
+ETL Developer
+‘ABC Corporation - March 2006- September 2008
+
++ Responsibilities Designed the mappings between sources (external files and databases) to
+‘operational staging targets.
+
++ Experience with high volume datasets frorn sources lke DE2, Oracle and Flat Flies
+Loaded dota from various sources using different transformations like Source Qualifier, Joiner,
+Aggregators, Connected & Unconnected lookups, Filters, Router, Expression, Rank Union, and
+Update Strategy & Sequence Generator.
+
++ Experience in writing PUSQL scripts, Stored Procedurés and functions and debugging ther.
+Responsible for Migration of Stored Procedures Into Inforrnatica Mappings for improving
+performance issue.
+
+Involved in Performance Tuning of application by identifying bottlenecks in SQL, thus
+providing inputs to the application programmer, theraby correcting and implernenting the
+Fight components
+
+CCreated Session Task, Email and Workflow ta execute the mappings,
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

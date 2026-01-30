@@ -1,0 +1,53 @@
+bert Sm Phone (123) 456 78 99
+Ro rt ith Email: Infouwikresume,com
+Website: sii aiikiesume cam
+Linke rkedi.comigcesure
+Adress: 1727 Marshille Road Alaberna
+
+Manual Tester
+
+SUMMARY
+
+Provide guidance in establishing polices, processes and programs to enable Section 508
+Compliance, Provide oversight and governance to ensure compliance with 508 standards.
+
+SKILLS
+
+Knowledge on SQL, Knowledge on Testing,
+WORK EXPERIENCE
+
+Manual Tester
+[ABC Corporation - August 2008 - December 2000
+‘Worked under waterfall methodology
+Executed Manual and Automated tests and reported defects by running automated tests
+Executed manual tests; reviewed results of all tests and reported anornalles ita the defect
+tracking database,
+Verified the resolution ofall defects for an assigned project:
+Prepared traceability matrix ta ensure the adequate coverage of the test cases.
+Prepared required docurnentation for testing signoff by various parties as required by the
+project plans,
+Assigned, Monitored and Tracked Tasks of Team Mernbers,
+
+Manual Tester
+Delta Corporation - 2004-2008
+
+Manual functional testing of ECARSL.0 and 2.0 applications,
+
+Understanding of requirements and clarification with the Business Analysts to clarify. doubts,
+
+Wetting and updating test cases for CRs in Test Manager,
+
+“esting Oracle back-end using SQL Developer,
+
+Database upgrade testing from Oracle 9| to 10,
+
+“esting of ECARS1.O which Is a mainframe applicetion.
+
+Validating ancl updating data in the ASa00 applications,
+
+EDUCATION
+
+Bachelors
+
+(0 This Fra Resume Tablas the copyright of Qwakesume com. Usago Guida
+

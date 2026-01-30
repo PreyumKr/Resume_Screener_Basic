@@ -1,0 +1,59 @@
+ROBERT SMITH
+Senior Devops Engineer I
+
+Phone: (0123}-486-789 | Email: infoBquikrestume.com | Website: Quikrestmecom,
+
+ 
+
+‘Over 8 years of experience as DevOps/Build and Release Engineer in solving complex.
+problems with creative solutions, supporting development, Deployntent operations in
+diferent environments, Extensive experience includes SCM, Change /Ineident
+Management, VMware and AWS Cloud computing. Experterice with and thorough
+‘understanding of automated implementation /deployment of a cloud based infrastructure
+(Web apps, Application Service Environments, Rrewalls, load balancers, storage,
+‘monitoring, security, AD. DNS ete,
+
+EE
+Bash, Python, Linux.
+[PROFESSIONAL EXPERIENCE.
+
+‘Senior Devops Engineer 1
+‘Comeast Corporation - December 2014 - 2020
+
+Key Deliverables:
+
++ Developed and maintained austomation and orchestration enigne in support of
+lange scale private and public cloud deployments,
+
++ Architected enterprise-wide provisioning, management and monitoring systems
+
+‘+ Created the automated build and deployment process for applieation, re
+‘engineering setup for better user experience, and leading up to bullding a
+continuous integration system.
+
++ Developed and implemented Sofware Reléase Maniaulement Strategies for various
+applications according to the agle process
+
++ Responsible for Continuous Integration (Cl) and Continuous Delivery (CD) process
+implementation-using Jenkins along with Python and Shell sextpis {o automate
+onitine jobs:
+
++ Developed bulld and deployment scripts using ANT and MAVEN is butld tools in
+Jenkins to move from one environment to other environments,
+
++ Bullt and Deployed Java/J2EE to a web application server in an Age continuous
+integration environment and also automated the whole process,
+
+ 
+
+Senior Devops Engineer
+Delta Corporation - 2010 - 2014
+
+Key Deliverables:
+Dignity Health has steadily grown to become the laryest private, not-for-proat
+health care provider in the state of California.
++ Dignity Health operates a network of 40 acute-care Facilities located in the Golden
+State and, toa lesser extent, in Arizona and Nevada,
+
+2259 Oak Street, Old Fonge, New Yorks, 19420
+© Ts Yoee Resume Template the copy of Qutb com, Usage Culelinne

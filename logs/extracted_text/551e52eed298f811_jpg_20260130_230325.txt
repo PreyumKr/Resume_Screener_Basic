@@ -1,0 +1,68 @@
+ROBERT SMITH
+
+Senior Java Developer
+
+Phone: (0123) 456.789 | Emai inlo@qwkcesume.com | Website: Qwikresute.com
+‘SUMMARY,
+
+‘Sonior Java Developer with over 8+ years of experience in software design, development,
+limplementation and software engineering which also includes integration, maintenance and testing
+‘of various client/server, and web applications. Design, development, and analysis in OO fields
+‘Java, and UML), inemet applications, Application Servers and Web Servers such as Oracle Web
+logic Server 12c, IBM Web Sphore 5.0/6.0, JBoss Server 7.1.1 and Apache Tomcal 7, DEE,
+
+CORE COMPETENCIES
+
+Java, BEE; Java Soript, Angular, JSTL, XML, Shell Scripting, GUI Development Technologies
+‘GWT Web Application Development Servieis, Java Server Pages (JSP), Java Server Faces.
+
+PROFESSIONAL EXPERIENCE
+
+‘Senior Java Developer
+‘Admaxlocal Lic - April 2015 - Present
+
+Key Deliverables:
+
+'+ Designed and developed a MongoDB (NoSQL) based extemal Restul API for exposing the
+functionality ol an existing saas platform to cients in an agile work environment using the
+wob cont
+
+* Involved in updating the saas platlorm to support the bing AdWords APL and integrating tho
+changes with Google AdWords API,
+
+Managed product development/implomentation using AWS cltd inrasinicture,
+
+* Wrote unit and integration tests to tast al the dasired tunctionafy using JUnit (TDD),
+Tesiing, Mockito, and Wiremock.
+
+* Documeniod the external API using enunciate and madied the auto-gonerated docs with
+cusiom CSS to match comporate website and design
+
+* Created Spring MVC - rest based JSON sorvices, usd rést template for making a clent
+‘allio JAXCAS web sorvices
+
+* Developed the Ul layar using Struts; JSP, Javascript; query, Node.Js, JSTL, XML and
+XPath, XML big data parser technology and Jwebunit,
+
+ 
+
+‘Senior Java Developer
+‘ABC Corp - 2010 ~ 2015
+
+Key Deliverables:
+
++ Performed complex programming assignments requiring an advanced aptitude tor
+established programming standards, methods; and best practices.
+
++ Acquited and interpreted the business requirements, created lunctional specications and,
+determined the mast eicient/appropriate technologies,
+
+* Performed the analysis of business models, logical specications andlor customer
+requirements to dasign and build business soluians ulll2ing muttple technologies:
+
+* Contebuted to, eviewed and approved the technical designs of sottware solutions.
+
+ 
+
+2959 Oak Sireet, Old Forge, New York, 13420
+(© This Exes Resume Template isthe copyright of Qwirestume.com. Usage Guidelines

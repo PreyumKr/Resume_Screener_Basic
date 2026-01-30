@@ -1,0 +1,51 @@
+Phone: (123) 45678 99
+Junior Oracle PL/SQL Developer Email: infotqwikrestume.com
+
+ROBERT SMITH ited seein ca) etter
+
+Objective
+
+\Junlor Oracle PL/SQL Developer with aver 3 years of experience in Design, Development, and
+Implementation af enterprise Oracle databases applications in bath OLTP and Declsion Support
+syslems. Extensive expertence using IDE Tools like Eclipse, NetBeans, and IDEA Intellid lor
+Java/J28E application development and web lechnolagles like HTML, and XML as required for
+Malabase management. Geod knowledge and understanding of Dala Modeling concepis, UML
+diagrams using MS Visto.
+
+Skills
+
+‘SQL Plus, SQL Loader, WnSCP. SharePoint, MS Project, Pulty, BaltPlus, Patly, Confluence,
+‘TexiPad, Bulld (ANT, MAVEN), SVN, Lag, PAC2000, JQuery
+
+Work Experience
+
+Junior Oracle PL/SQL Developer
+Wells Fargo ~ September 2014 ~ April 2018
+{Wrote PL/SQL progeams requlred loetseve dala from ihe dala repository using eursors, UT.
+fle 1/o.and exceplion handling ype up with casfhuence for profs related information.
+Use SQL Laader/Kors shell script (a load data (tm various sources ino at Oracle database
+\Wroe complex SQL using ols, ub-queries and correlaied sub-queries
+Used clear cane or maintaining the camponcnt ata for release aid version management.
+‘Maintained senipls using Kom shel seripirg estension~ Kah and Perl support
+development
+Developed Unix shell scripts to automate repetitive database prosesss,
+‘racked al the releases and updating the infomation an toa centralized lation (tk)
+
+ 
+
+Oracle PL/SQL Developer
+‘ABC Comp -2013-2014
+‘Responsible for admlnistralion of yrs contra ods such as IBM rational clear ease
+“subversion, participated in peer code reviews and verliying coding standards,
++ Trwolved irereating Unk sell scripting, Defiagmentation of lables, partloning, compressing
+and indexes for improved performance and ellitency
++ Developed complex database processes will PL/SQL-coptalning balch or ETL functionally
+Developed anxd enhance an existing DataMart in an OLAP schema
+Responsible forrequiremculs yalherlt, desig, development, testing, and docurme tation
+Designed logeal and physical ERD diagrams, pracess low diagrams, or rated data processing
+documentation.
+Leveraged Oracle 10/114 estas to thelr fullest on a lange-seale miult-lerabyte system.
+
+Education
+
+‘Bank - 2015 (Secondary Market System)

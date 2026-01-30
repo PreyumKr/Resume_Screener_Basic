@@ -1,0 +1,65 @@
+ROBERT SMITH
+
+Junior DOT Net Developer
+
+(0123)-458-780 | Emal: nfo@quikresume.com | Website: Gwkzosuma.com
+
+ 
+
+Junior .NET Developer having ovar 3 years of axtensive expertence in complete softwar
+‘development fe cycle (SDLC) involving Requlremants Gathering, Analysis, Design, Devaloprnant,
+‘Testing, Packaging, Deploying and Supporting af Windows Appications, Web Applications and
+Mobile Applications on Microsot platform. Exparionce in Agila Methodology for full i's-cycle ofthe
+Project
+
+CORE COMPETENCIES
+
+Cf, VB.NET, Java .Not Technologiss -Not Framework .Net Core, ADO.NET, ASP.NET, .Not
+Slack, ASP.NET MVC, SharaPoint, Web Services, Web Technologies XML, HTML, XHTML,
+WSDL, CSS, JavaScript, JQuary, JSON, AJAX, Bootstrap, Angular JS. Databases MS-SQL
+‘Sarver Oracle, MS Accass, T-SQL, PLSQL Design And Davalopmant Tools MS Visual Studio,
+Microsoft Visio, MS Ofice, SQL Sarver Management Studio, Wob Servers &amp; Protocols
+‘Tomcat 7.0, Apacha, TCP, HTTP, UDP, SOAP Operating Sysioms Windows Linux Reporting
+‘amp: Integr
+
+PROFESSIONAL EXPERIENCE
+
+Junior DOT Net Developer
+XL Soft Tech - August 2013 - August 2015
+
+Key Deliverables:
+
++ Involved in various phases of the development life cycle by gathering requirernents,
+analysing, dasign and develapment.
+
++ Followed Agile methodology with daly serum meetings and pravided user story updatas.
+
++ Worked on routing fo load contialor type using Asp.Net MVC for reaching appropriate
+action inthe wab application,
+
++ Used MVC razor-view engine for re-using the individual user controls by nat coupling them
+with underlying data elements,
+
++ Used Asp.Net MVC tramawork ta support tha use of dependency Inaction to ject ablacts
+Into a class, Instead of relying on the class to craate the objact sell,
+
++ Created application using HTMLS, React.Js, AngularJS, and Bootstrap for responsive
+dosign
+
++ Heavy use of knackout, Js view madels far separation of ul, data, and logle concerns,
+
+ 
+
+ 
+
+Net Developer
+ABC Corp - 2012-2013
+
+Key Deliverables:
++ Designed and coded applications based upon detail specifications af businass and/or usar
+roquiremanis.
++ Ensured effective intagration of software across products, platforms and environments,
+
+‘2259 Oalk Street, Old Forge, New York. 12420
+\0 This Free Resume Template 1s the copyright of Qwikresume.com. Usage Guidelines
+

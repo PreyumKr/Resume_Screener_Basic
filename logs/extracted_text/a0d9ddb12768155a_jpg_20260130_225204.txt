@@ -1,0 +1,60 @@
+Robert Smith Phone (123) 456 7899
+
+email infooquikresume.com
+5 Website: wor canikresume, cam
+
+ETL Informatica Developer Linkedin: linkedin.com/qwikresume
+‘Address: 1737 Marshwlle Road, Alabama
+
+SUMMARY
+
+‘A detail-oriented ETL Informatica Developer with over 6 years of experience in Analysis,
+Development, Testing, Implementation, and Maintenance of Data Warehousing/integration
+projects and knowledge on administrator part as well. Extensive experience in gathering and
+‘analyzing requirements, Gap Analysis, Scope Definition, Business Process Improvernents, Project
+‘Tracking, Risk Analysis, and Change ControlManagement. Good experience in AIX & NIX working
+environment.
+
+SKILLS
+
+Inforrnatica Power Center 9.x/8x, Informatica Power Exchange 9.x/6.x, IDO 9.6/9.1 Bl Tools OBIEE
+(106, 116), Tableau. Scheduling Tools Contro-M, Autosys Languages C, Java, C++, Python, R
+RDBMS Oracle/ Exadata/l 19/109, DB2V9, Teradatal4/13, PL/SOL, SOL Server 2008 ToolsUtlities
+‘Toad, Perl, UNIX Shell, Business Objects XI Rl Operating Systems Windows, UNIX, Linux Web
+‘Technologies HTML, CSS, XML, JAVA SCRIPT
+
+WORK EXPERIENCE
+
+ETL Informatica Developer
+Houston independent School District july 2015 - Present
+Involving in direct conversations with the business users and gather thé requirements to how
+tohhandle the source data and design accordingly the ETL process.
+Using informatica power center 9.6.1 to extract the data from insurance application AS40O to
+transform and load the data into the enterprise data warehouse gmp: data mart
+Developing the logical data models and physical data rmodels with experience in forward and
+reverse engineering using Erwin,
+Involving in information administration including creating new users and groups. backing up
+the repository and domain as well a5 handling various uparades.
+USed Informatica 828 data exchange ta handle EDI (electronic data exchange) for hancling
+the payments forthe scheduled dates
+Using major components like parsers, mappers and streamers in data transformation Studion
+for conversion of XML files to other forrnats,
+Implementing various data modeling schemas such as star schema and snowflake schema,
+
+ETL Developer
+ABC Corp - 2012 - 2015,
+
++ Created reference passthrough ports in xrl transformations to correlate the parsed dat:
+Extracted data from Salesforce.comisfie), Oracle, Excel, Data Files using informatica ETL
+Mappings/SOl PLSOL scripts
+Created and scheduled Sessions, jobs based on demand, run on vine and run only once using
+workflow manager.
+
+Impiemented slowly changing dimension methodology for accessing the ful history,
+Created several informatica mappings to populate the data into dimensions and fact tables
+Performed incremental aggregation to load Incremental data into agaregate tables,
+Developed unix shel scripts for event waits, walt For files and pre-session tasks,
+
+EDUCATION
+
+(© This Fete Resting Template the copilgh of Qwikeaume ccm: Uaage Gilding

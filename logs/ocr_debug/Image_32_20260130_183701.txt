@@ -1,0 +1,61 @@
+ROBERT SMITH
+Sr.Senior Sql Developer
+
+Phone: (0123) 456.789 | Emai: inlo@qwksesume.com | Wobsie: Qwikresume.com
+‘SUMMARY,
+
+‘SQL Server DBA wih over 8 years of IT experience with various Industries SQL Server DBA MS
+SQLSERVER administration, analysis, design, development, testing, presentation
+implementation experience using SQL Server {] Good knowledge of Relational Database
+‘Management Systems (RDBMS). Good experience installation, upgrade and configuration MS
+SOL Server databases. clustered and non-clisiored environments
+
+CORE COMPETENCIES
+
+‘Transact-SQL, Microsoft SSAS, Microsoft SSRS, Oracle, PL'SQL, Microsolt SSIS, Microsoft
+SSMS, Microsoft SQL Server, NET, Data Warehousing Tools, Stored Procedures And Triggers,
+MS Accoss.
+
+PROFESSIONAL EXPERIENCE
+
+Sr.Senior Sql Developer
+ANI Pharmaceuticals inc - June 2014 ~ 2020
+
+Key Deliverables:
+
+"| Responsbilties Involved Requirements Gathering irom the Business Users, Design and
+DDovolop work tlows
+
+++ Involved database design process data modeling process tor application using MS-Visio
+and SOL database diagrams Involved Data mapping, Column mapping maintain data
+tionaries Data models Involved creating, maintaining aflorant SQL Server Cbjecis such
+Tables, Procedures, Functions, Views, CTEs, Tagors etc.
+
+* aocording to Requirements,
+
+++ Involved in wring complex SQL Scripts using excel sheets for loading data into
+mainierane table.
+
+* Queried against Heterogeneous Data Sources ike SOL Server, Oracle, Great Plains, Tait
+fies and some Legacy systems to retrieve muli-milion records for data loads using SSIS.
+2005/2008,
+
++ Extensively used SSIS Data Protiler Task to profile tage! source systems (tables Bamo,
+views) prior to building ETL solutions, which was instrumental in cleaning data for data
+‘consistency and designing tabi structures,
+
+* Built various SSIS packages having diferent asks and transiomations tor various clonts
+and Scheduled SSIS packages.
+
+ 
+
+‘Sr.Senior Sql Developer
+Delta Corporation -2010- 2014
+
+Key Deliverables:
+* Bull technical solutions involving SSIS and stored procedures based on business
+requiromonts
+* Designed SSIS Packages for ranstor data across difrentplaitrms.
+"2250 Oak Street, Old Forge, New York. 13420
+(© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines
+

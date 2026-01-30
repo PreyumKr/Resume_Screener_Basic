@@ -1,0 +1,78 @@
+Project Aswacte
+Deprtnent of acti ngoeering
+ted tate of Pech, apr
+DEEPAK PAL pisepcecacn crop pac
+Fiore nn /eepaaesm
+ssansrass
+
+ 
+
+‘CAREER VISION
+‘Towork nachallesgag nvtenment demanding ysis and elfrsto explore and adaptmyslfindiferent lds and
+realize my poten where I gt the opportunity fr continvous earning
+
+ 
+
+RELEVENT EXPERIENCE,
+Department of Electrical Engineering Indian Institue of Technology, Kanpar, tn Dec, 2010 Present
+Project Associate Prot Adipa agro Mutimedia Wireless Networks Lal IT Kagpr
+
+‘Developed robust MPEG encoder in MATLAB ndC tat performs streaming of lve videos over wir dss network
+
++ Setups wtleslnk supporting rallodatrateup 1 250 lips for atsmison of ages alsa sede using
+‘TELOSB moteson TINY OS phtform ung AVA
+
+‘+ Developed 261 video encoderand decoder on MATLAB Platform
+
+‘+ Perfomed study of SM (Jom Salle Video Mode or .254 compliant bitstream generation ae transmission
+
+1 Gurrently developing H1261/SVC codectoachieve vdeo streaming oflne evens on Kanpir camps wir dese
+
+Department of Electrical Engineering Indian Institut of Technology, Kanpar, tna ‘Aug 2010- Now 2010
+Project Fellow Trot Adi [aganaathan Mubimeda Wireless Networks Lak UT Kanput
++ Developed GU for wansmisson and ection of iil lmages over AWGN and RAYLEIGH channel with ise tering
+‘mechan athe recever on MATLAD Ptr
+
+‘+ Ferfomed exensive workin video motion estimation morphological mae processing lasing transform odin 20
+‘impinging and interpolation
+
+Developed JP encader apd decoder co MATLAB platform
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘TECHNICAL SKILLS
+Languages
+
+eHATLAB uxpenr.sveor) |G (ADVANCED, 25 Yar)
+
+SHTMILCSS JAVASCRIPT (MEDIUM, 6 mons) | Verilog (FAMILAR, Moths
+‘Toole and Libraries
+
++ Vial tude | Edipse | reamwanver | XilmcIDE cygwin
+
++ GaUSclnuietibexy | Open cy nar
+operating ystems
+
+© Windows-7.VistuxP | Unue-Ubuina
+EDUCATIONAL QUALIFICATIONS
+Bachelor of Technology in Electronics and Communication Engineering (UPTU, ercentage- 70.02%)
+‘Galgoies Googe of Engineering and Techolagy ‘Aug.2006 Jun 2010,
+Intermediate (UP Board, Pereentage 794%)
+‘ac Pubic ier Calege May 2004
+igh Schoo! (UP Boar, Percentage 658%)
+SePacas gh Scho! Jun 2002
+PROJECTS.
+[MULTIMEDIA TRANSMISSION OVER WIRELESS ov 2010-—Present
+Details
+
+‘Objective -Inplesent vdeo coding standard to enable trnemlasion and uepadking at ipl spt tersporat
+resnlilons with vaste bitrates 20:3 0 make veo streaming ready sulted fer wireless networks
+

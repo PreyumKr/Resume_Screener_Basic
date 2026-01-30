@@ -1,0 +1,57 @@
+ROBERT SMITH
+
+Software Test Engineer
+
+Phone: (0123) 456.789 | Emai: inlo@qwksesume.com | Wobsie: Qwikresume.com
+‘SUMMARY,
+
+‘Seeking a position in software development or desktop support. Experionce in software testing in a
+‘business environment, field (in-car) and bench testing utilizing ticketing systems. Experience in
+Java & Android application development, colaborating, and creating a web-based search engine
+automation program trom scratch,
+
+CORE COMPETENCIES
+‘TestRunner, TestQuest.
+PROFESSIONAL EXPERIENCE
+
+Software Test Engineer
+Honeywell - February 2015 - 2019
+
+Key Deliverables:
+* Develop and performed regression and integration tess of intornal tools and products
+*+ Maintain and develop testing environments in sottware labs supporting developers.
+Prlorm qualifcation tasting of network switches and frewalls,
+Flasearch previous product iirations to create new test plans and improve lest processes,
+Worked closely with developers to bull unique tastbods and test cases,
+‘Communicate status'and results of tasting to management and peors ona weakly basis.
+Document detects and regulates found during testing to be reported to dovelopers. and
+management
+
+Software Test Engineer
+ABC Corporation - 2013 -2015
+
+Key Deliverables:
+
+* Automated lib Testor Software Development Lab Automation Wroia and mainained batch
+‘ss that are the foundation ofthe bulls automation
+
+Analyzed, ciagnosod, and provid recommandations on posormance issuos.
+
+Work wth WIT eatabase store and Trex
+
+Managed a dato store 1 insure a tost pass could compo.
+
+Sometimes raised issues during spec and design reviows
+
+Found and reporied dabug broaks in temples and nuns
+
++ Technologios used WT, TRox, product studio, TFS, Wor, Ecol
+
+ 
+
+EDUCATION
++ BSE in Mechanical Engineering - (Arizona State University)
+
+"2250 Oak Street, Old Forge, New York. 13420
+(© Ths Exes Resume Template s the copyright of Quikresumecom. Uaags Guidelines
+

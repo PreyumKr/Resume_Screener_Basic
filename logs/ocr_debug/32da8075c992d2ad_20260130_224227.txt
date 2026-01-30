@@ -1,0 +1,78 @@
+Christa Kevin
+
+SENIOR DEVOPS ENGINEER
+
+info@resumekraft.com O 202-555-0120 © Chicago, Illinois, US ff) linkedin.com/resumekraft
+
+[| SUMMARY A SKILLS
+
+ 
+
+e Overall 5 years of experience and 3.5 years of experience as a Versioning Tool: GIT BSEBE8
+DevOps Engineer in application configuration, code configuration, CI/CD-JENKINS BBBB8
+packaging, building, managing, and releasing code from one ‘Gontalarization BBBB8
+environment to another and deploying on servers. Tools- Docker
+
+e Having good knowledge of Linux. Container BBBB
+
+e Worked extensively on agile methodology. Management Tools -
+
+e Used terraform for resource creation. Kubernetes
+
+e Experienced in Jenkins by installing, configuring, and maintaining Operating System- seeae
+for the purpose of continuous Integration and for end-to-end Windows, Linux
+vipeline for all build and deployment and creating Jenkins Cl Database- MYSQL, aBeBe
+
+e Experienced in branching, merging, and maintaining the versions POSTGRES SQr
+
+r e a Connectivity Tool - SBEB8
+
+using SCM tools like Git,Github, Bitbucket on Windows and Linux
+servers.
+
+e Experienced in the creation of Docker containers and Docker
+consoles for managing the application life cycle.
+
+e Creating custom Docker images in a local machine using Docker file ® LANGUAGES
+
+for easier replication in DEV and QA environments.
+
+Putty, SSH, RDP
+
+© Deployed containerized applications using kubernetes. English saaaa
+e Good Knowledge in Education Domain Projects. French SEB8
+
+e Providing knowledge transfer (KT) to new members Arabic Sasa
+
+e Having exposure to tools like PUTTY, JIRA, Teamcity. German SEB
+
+e@ Good Knowledge in MYSQL, POSTGRES SQL.
+
+e Good Experience in PHP Backend Language.
+
+Ei EDUCATION
+[=| EXPERIENCE BTECH
+
+San Jose State University
+
+Senior Software Engineer May 2014 - Apr 2018
+
+SILICON TECH LAB (STL) jun 2021 - Present ¢ Bachelor of Technology (B.Tech) in
+Project Name: UMS Integration for Various University across Computer Science branch from
+India Orissa Engineering College,
+
+e Responsible for the complete End to end process of student life Bhubaneswar, Gdisha, India 2e18.
+
+cycle in a DSEU University.
+
+e Automated the deployment and build process according to the
+developer's needs.
+
+e Wrote pipeline scripts to automate the deployment process.
+
+Software Engineer
+SILICON TECH LAB (STL) Feb 2020 - May 2021
+Examination Management System
+
+e Automated the process of generating revenue scans taken at
+

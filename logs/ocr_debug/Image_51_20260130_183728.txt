@@ -1,0 +1,114 @@
+Robert Smith
+
+Junior SQL Server Developer
+
+PERSONAL STATEMENT
+Juniof SOL Server Developer with over 3 plus years of fr Experience in
+Database Design, Development and business intelligence af Microsofe SQL
+Server in Developrnent, Test and Production Environments, Expertise in
+lwriing SOL Queries using joins, Sub queries and Cursors in MS SQL
+Server strong hands-on experience with M5 SOL server with Business
+Intelligence in SOL Server Reporting Services, SOL Server Analysis Services
+of and SQL Server integration Services,
+
+WORK EXPERIENCE
+
+Junior SQL Server Developer
+Citibank March 2016 - Present
+
+esponsilites
+
++ Working on various possible performance-elated issues induding
+database tuning with the sole intention of achieving faster response
+times and better throughput
+
++ involving in the analysis of report design requirements and actively
+participating and interacting with team fea, technical manager and
+lead business analyst to understand the business requirements
+
++ Migrated OTS packages fromm SOL Server 2000 to SOL server 2012 as
+sis packages
+
++ Experience in working on cube structure optimization for MDX query
+performance in analysis services 2008
+
++ Excellent report creation sks using Microsoft SOL server 2012/20082
+reporting services (S5R5) with proficiency Inusing report designer as
+well as report builder.
+
++ Created SOL server reports based on the requirements using SSAS
+2008
+
++ Worked on the reports module ofthe project asa developer on ms SQL
+server 2012 (using SSRS, ESOL, scripts, stored procedures, and views)
+
+SQL Server Developer
+ABC Corp- 2015 - 2016
+Responsibilities:
+* Participated in all phases of SLC, from systern analysis and design thnu
+developrnent and test to deployment and support
++ Participated in designing and developing complex systerns by writing
+[Design Specifications description ofthe frarnework, interfaces, services,
+reports, business components, and interaction between the components
+' Created complex reports which involve a number of groupings and
+‘multi-value parameters,
++ Developed reports like claim statements, fee bills transactions and
+Some end request user reports on a periodic basis.
+Sound experience and understanding of SSAS, OLAP and OLTP cube,
+data mining, and architecture,
+‘Created multiple reports with drop down menu option having cornplex
+‘groupings within the report
+
+(© The Etne Restime Template le the copyriht of Qwikrestme.com, Usage Glens
+
+SOQNTACT DETAILS
+1737 Marshville Road,
+Alabama
+(223)-456-7809
+
+Info@ quikresume.com
+wow.qwikresume.com
+
+SKILLS
+
+SQL Server/oracle Tools
+SQL Server Managernent
+Studio, SOL Server
+flusiness intelligence
+Development studio,
+SOL Developer, SOL
+
+Plus. 81 Tools SOL Server
+Integration Services
+(S515), SOL Server
+Analysis Services (SSAS),
+SQL Server Reporting
+Services (SSR5), Data
+‘Transformation Services
+(OTS), Business Objects
+XL/XL-R2 Visio, MS SOL.
+Server, Ms Access,
+rade, TSOL
+
+LANGUAGES
+
+English (Native)
+French (Professional)
+Spanish (Professional)
+
+INTERESTS
+
+climbing
+Snowboarding
+Cacking
+Reading
+
+REFERENCES
+
+Reference - 1 (company
+Name) te
+Reference - 2 (company
+Name)
+
+ 
+

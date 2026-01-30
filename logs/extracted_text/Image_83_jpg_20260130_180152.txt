@@ -1,0 +1,66 @@
+Build & Release Engineer/DevOps Phone: (135) 456 7899
+
+Anal, ietwieesumeorn
+Engineer ete sew wemeears
+Used: lnedincom/ wes
+
+ROBERT SMITH ‘Address: 1797 Marshvile Road,
+
+Alabama
+
+Objective
+
+Around 4+ years of IT experience as.a DevOps Englncer, with a profile af Software
+Configuratien /Bulld/Release Management/Cantinuous Integration and expertise on version control
+tools ike Subversion, Clear ease administration, Managing build ard mulple releases. Alza
+worked on Clear Quest (Bug Tracking Tool) administration and have hands-on Bulld Aulomation
+fonls like Hudson and Continuum,
+
+Skills
+
+DevOps, Bulld Release Engineer, AWS, Linux, Unix Administration, System Administration. Git,
+Perforce, Subversion, Jenkins (Hudsen), ANT, Maven, Scripting, Bulld And Release Automalien,
+Perl, Powershell, Python, Shell Scripting, Perforce, Continuous integration Tools Like MyS@L, and
+arr.
+
+Work Experience
+Build & Release Engineer /DevOps Engineer
+
+ABC Corporation - July 2016- Present
+
++ Toleracting with cient teams to unxderstand client deployment requests
+
+* Coordinating with the development, database administration, QA, and IF operations teams to
+censure there are to rescurce confit,
+
+Responsible in working with the source control tools such as team foundation server andl
+
+Building the senpts using maven build tools in Jenkins to move frem ane euwironment to other
+environments,
+
++ Primary duties include build and deployment of the java applications anto different
+‘environments like dev, QA, UAT, and production,
+
++ Analyze, resolve, compllation and deployment errors related to code development, branching,
+‘merging and building af source code along with Linux administration (installation,
+configuration, tuning, and upgrades of Linux
+
++ Implementing a continuous deplaymenifed) pipeline involving Jenkins, chef to complete the
+aulomatton [rom commit to deployment,
+
+DevOps Engineer
+ABC Corporation - January 2015 - June 2016
++ Responsibilities administration of sun servers (SPARC and x56) running Solaris 9, 10 and dell
+hp servers running SUSE, red hal el 3, 4X, 5 which Included Jumpsiariing, performing live
+upgrades of Solaris operating systems and Klek-starting fed hal el 8, 4. X. 5 creation of VMS
+for SUSE, Solaris x86 and red hat Linuxon Vmware ESK 9, 5 and administering them wl vt
+cents,
++ Created detatled documentation of complex bulld and release process, past-release activites
+process, Jira workllow. and release notes.
++ Implemented best practices of agile methodology ta speed up the delivery process eflcently
++ Worked with syn to manage souree code repasilories and perlormed branching, mengig, atid
+tagging depending on the requirement,
++ Performed sen to gt migration and implemented &amp: matntatned the branching and
+‘bulld/release strategles vliizing ait
+
+(Tas Pree Resume Template bse copyright of Qutkretmesom. Grate Guldaines

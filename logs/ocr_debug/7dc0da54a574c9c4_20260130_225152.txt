@@ -1,0 +1,64 @@
+ 
+
+ 
+
+ROBERT SMITH
+Programmer Analyst/ETL Developer
+‘Erma; info @qwikrestme.com Phones (0123)-486-749
+
+“More than years of expeionce in IT as SQL Server Developer with strong work experience in Business
+Intelligence tols, Excellent T-SQL. development sist write complex queries involving multiple tables,
+_greatabilty to develop SQL Objects and maintain Stored Procedures and User defined functions.
+
+SKILLS
+
+Informatica, Oradle 10G.
+
+Programmer AnalysETL Developer
+‘ABC Corporation - January 2010 March 2012
+
+* Intercted with wers extensively in gathering the requirements and analyzing the needs of theend
+
+Design, Develop and Deploy report in MS SQL Serverenviranmentusing SSRS-2008
+Unlerstnding the various complex reporting requirement of company and creating web reports
+‘sing Reporting Services Extensively formated teers into documents using SSRS Report
+‘Bullderfor creation of Dashboards.
+
++ Developed repars using SSRS 20052008 to generat all dily, Weebly, msnly and quarterly
+Reports based om the user busines requinements
+
++ Pamof team for analyzing and implementing the pnysical design forthe database
+
+‘Responsible fer drafting and documentation for describing the metadata and writing technical
+goes
+
++ Creed Stored Procedures, Triggers, Cursors, Tables, Views and SQL Joins and other statements
+for various applications, maintained referential integrity and implements complex business logic
+
++ Anilyzed and med complex Queries/Stored Procedures in SQL Server 2008 for faster execution
+apd developed datubase strmctues.
+
+ETL Developer
+ABC Corporation 2005 - 2010
+
+Business Process Datu Mart (BPDM) acts as. consolidated repository ofall CaeLogic
+“Transactions
+
++ So BPDM accumnlate dita fom al the necessary sources and data is organized ina way to help the
+‘ers to perform Customer Analysis, Prafvet Analysis, COGS Analysis, Operational Reporting,
+‘Revenue Analysis, Support Tax Related Reporting and Vendor Cast,
+
+* Understanding Source Systems, Creating Design Specifications and Test Plan
+
+Creating Tables, Views, Indexes und Stored Procedures Developing variows Packages ting SSIS
+ETL Tool as per businessteehnical semaris like Extraction, Validations, tedious rejest pmcessing
+asvell,
+
+ 
+
+a: Hiss the copyright of Qvikesme com Ras alsin
+
+ 
+
+ 
+

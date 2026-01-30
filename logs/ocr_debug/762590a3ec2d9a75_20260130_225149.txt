@@ -1,0 +1,66 @@
+ETL Developer/SQL Developer Hie) a (8
+
+Ema: nlocquilrestae.com
+Website: uunw.qwikrestamec
+
+ROBERT SMITH Linkedin: linkeda.com/qwikrestme
+‘Address: 1797 Marshville Read,
+
+Alabama
+
+Objective
+
+‘Over 10 years of experience In Information Teetmology with a strong background in Database
+development and Data warehousing and nearly 8 years af experience in ETL process using
+Informatica Power Center, Gond knowledge of Data warehouse concepts and principles,
+
+Skills
+sal.
+
+Work Experience
+ETL Developer/SQL Developer
+
+‘ABC Corporation - June 2005 - January 2007
+
+Respansibilities Involved in ful fe cycle development including Desigh, ETL stralewy.
+troubleshooting Reporting. and Kdenilying facts ane dimensions,
+
+Prepared the requited application design documents based on functionally required Designed
+the ETL processes to load data from Oracle, Flat Files (Fised Width), and Excel les to staging
+database and [rom staging to the target Oracle Data Warchouse dalabase.
+
+Involved in cleansing and extraction af data and defined quality process lor the warehouse.
+Documented ETL test plans, test cases, test senipis, test procedures, assumplions, and
+valldations based on design specifcalions for unit testing. system testing, expected results
+[Preparing test data and loading for testing, error handling and analysts.
+
+‘Strong Experience on writing SQL Queries, Stored Procedures in Oracle Databases,
+
+Developed shell scripts, SQL procedures, for ereating/dropping af table and indexes of
+performance for pre and post session management,
+
+(Created documentation on mapping designs and ET. processes
+
+ 
+
+ETL Developer
+‘ABC Corporation - 2002 - 2005
+© SummarySEW Infrastructure Lid, thas diversified tnio construction lke lined! igation cana,
+dams ct.
++ has Implemented Oracle e-busiiess solutions,
+© They were maintaining thelr nancial data in Tally over the years.
+‘The project invalved extracting the data from embedded database and loading it unto Oracle e
+Business suite.
+Roles & Responsibilities Complex Busiicss Rules are Implemented to kdently error records
+Developing ETL transformations Writing Procedures, Functions, and Queries as per
+requirement
+‘Customer interaction for requirement anialyss for designing reports using SSRS AppHeation
+development required by Customer for interfacing with seripts tr C#.oet.
+‘Handling issues raised by clients in Production Suppor! environment Preparing test serps
+and reviewing the lest resulls and Tuning of the mappings to enhance the perlarmance
+Corparate Computer Solutions Environment SQL Server 2008, SIS, SSAS, SSIES Windows XP.
+
+Education
+
+(Tis Pree Resume Template bse opie of Qatkretmesom. Uhage Guanes
+

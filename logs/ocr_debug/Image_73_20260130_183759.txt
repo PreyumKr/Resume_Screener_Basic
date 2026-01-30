@@ -1,0 +1,71 @@
+Junior SQL BI Developer Phone: (129) 4567899
+
+Ema: olocquilresume.com
+Website: uunw.qwikrestme.cmt
+
+ROBERT SMITH Linkedin: linkeda.com/qwikrestime
+‘Address: 1797 Marshville Road,
+
+Alabama
+
+Objective
+
+\Junlor'SQL BI Developer with more than two yeats of experience in end-to-end implementation of
+Dala warehousing projects Including Modeling, Database design, development and administration
+of applications with Micrasoft SQL Server Hands-on expenetce in complex Siored Procedures,
+efiecive functions, Constraints, Querying. Joins, Keys, Indexes and appropriate Triggers to asslat
+ilelent data manipulation and data consistency.
+
+Skills
+
+‘SQL. SOL, PL/SQL, SSIS, SSAS, SSRS, Power BI, Excel, Testing, Requirements Gathering
+
+Work Experience
+
+Junior SQL BI Developer
+‘ARC Corporation - July 2010 December 2011
+
++ Deslgied and developed SSIS Packages to impart and export data from MS Excel, SL Server
+and Flat files Create joins and sub-queries for complex queries invalving malliple tables
+
++ Responsible lr Crealing ars Modiiying T-SQL stared procedures/triggers for validating the
+Integrity of the data
+Created indexed views, and appropriate indexes to reduce the manning time for complex
+‘queries
+Involved {n the Installation and contguration af SQL Server 2005, SQL Server 2008 and SQL.
+‘Server 2012 with the latest Service Packs,
+
++ Enhancing performance using optimization techniques-normallzationj2n) indexing and
+‘Transaction Isolation levels, monitoring logs to ensure the completeness of batch processes,
+seripis, and processes.
+
++ Created Linked Servers to connect OLE DB data sources and providers Participated in
+designing a data warebouse ta stare al information fom OLTP to Staging and Staging to
+Enterprise Data warehouse todo better analysis,
+
++ Used baste Seript Task for renaming the Ble names, storing Row Count Values Into User
+Variables,
+
+SQL BI Developer
+‘ABC Corporation - November 2008 ~ June 2010
+
++ Installed and Configured SQL Server 2008.
+
+‘Performance Monitor to track the sizeof the SQL Server database transaction logs and sel up
+alerts to notlly the server before the transaction log les, hus averting problems thal might
+iherwise seriously allect users and applications,
+
++ Created Stored Procedures, Triggers, Functions, cient-specilé Views far the Application,
+
++ Extensive testingjon the Performance of the Stared Procedures
+
+© Optimized SQL queries for elliciency and provided queries and procedures for the front-end
+pplication.
+
++ Inported and exported data to and trom various heterogeneous sources sing various
+techniques like BCP, DTS.
+
++ This is Dummy Description data, Replace with job description relevant lo your current role.
+
+(Tas Pree Resume Template bse copyright of Qutkretmesom. Grate Guldaines
+

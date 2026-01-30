@@ -1,0 +1,60 @@
+Phone: (129) 456 7890
+dr. AWS Devops Engineer mall: infotqwileesume-com
+
+ROBERT SMITH ited seein ca) etter
+
+Objective
+
+Interactive fs the premler online content network for information and online operations of
+ViacomCBS as well as some of the top native digital brands in the entertainment Industry. Our
+brands dive deep into the things people care aboul across enierialnment, technology, news. fames,
+business and sports, With over 1 billion users visiting aur properties every quarter, we area global
+top 10 web property and one of the langest premium content netwarles cnn,
+
+Skills
+
+‘Knowledge on cloud computing, Knowledge om networking
+
+Work Experience
+
+Jr. AWS Devops Engineer
+PNC Bank - March 2015 - 2020
+Responsible lar manage network serurily ustig load balancer,
+acl
+Implement and enhance the existing scripts whieh are developed in shell, perl, ruby and
+python,
+Use puppet and chef automation tools for configuration management in diferent systems.
+Write puppet manifests in ruby for deploying, configuring and managing collected lor metric
+collection and monitoring
+[Responsible for malntaining 4-5 diferent testing/qa environments and erection of the prod
+environment in aws moniioring Ive trafic logs, memory ullliation, disk utilization and
+various other factors which are important for deployment.
+Uli puppet for configuration management of hasted instances within aws. Configuring and
+networking of virtual private cloud type)
+Monged release branches to the tran after the production release and resolved the comets
+arose during the merge in beth Subversion and GIT,
+
+ 
+
+sulosealing, security groups and
+
+ 
+
+AWS Devops Engineer
+Delta Corporation -2014- 2015
+[RESPONSIBILITIES Developed and supporied the Sofware Release Management and
+procedures,
+Performed all necessary day-to-day GIT/Bit bucket/TFS support fardillerent projets
+Involved in migrating physical Linux/Windaws servers to loud (AWS),
+Bul servers using AWS importing volumes, launching EC2. RDS, S3, IAM, RouteSS, VPC,
+Code Deploy, creating security groups, auto-scaling, Laribda, load balancers [ELBs) in the
+defined virtual private connection,
+Implemented, deployed and maintained cloud Infrastructure using AWS,
+Automating backups by the shell for Linux to transfer data in the 53 bucket,
+‘Maintaining the user accounts AM), RDS, Route 53, SES and SNS services in AWS cloud,
+
+Education
+
+Bachelors
+
+(Tas Pree Resume Template bse copyright of Qutkretmesom. Grate Guldaines

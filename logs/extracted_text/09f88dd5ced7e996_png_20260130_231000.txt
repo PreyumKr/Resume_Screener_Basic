@@ -1,0 +1,85 @@
+Information/Network Security Engineer
+
+Josh Burke
+
+(address/phone available on request via e-mail)
+E-mail: resume-20080212.@20080212.tempmail.iokw.com
+
+SUMMARY
+
+OBJECTIVE
+
+EXPERIENCE
+
+    
+
+Broad knowledge of hardvare, software, and networking technologies to provide a powerful combination of
+analysis, implementation, and support. Experience in system and network administration and engineering,
+hardware evaluaton, project management. systems and nets ork security, indent analysis and recovery
+
+ 
+
+Provide network, systems, and security experience, knowledge, and solutions in a system and nets ork
+diverse environment. Protect confidentiality, integrity, and availabilty of information and information systems.
+‘Advise and engineer secure solutions for business opportunities. Learn and experience, mentor and share.
+
+10/2005 - 09/2006 Getty Images Seattle, WA
+Information Security Analyst IIT
+
+ 
+
+Provide technical leadership tothe enterprize for the information secutty program. Mentor and tain others in
+information security in don to taining for ether technical groups Inzal nd maintain security
+infrastructure including IPS, TDS, log management. and secuy assessment systems Aesese teats, risks,
+snd miners frm emerging sey sesh Seay Uanen neuer for tcl ode
+Drafeenerprse security standards and guidelines for system configuravon. Managed
+
+She lead role for computer scury incident response tame Perform and create proce
+audits penetraton-tests and winerabily assessments: Develop scipts to maineain and backup key security
+syseme
+
+    
+
+12/2004 - 10/2005 Starbucks Coffee Company Seattle, WA
+
+Information Security Analyst Technical
+
+ 
+
+Recommended preventive, mitigating, and compensating controls to ensure the appropriate level of protection
+and adherence to the goals of the overall information security strategy. Assisted in the development of
+Sccezs-controls separation of duties and roles. Conducted technical risk evaluation of hardware. <oftv are,
+and installed systems and networks. Assisted with testing of installed systems to ensure protection strategies
+are properly implemented and working as intended. Assisted in incident response and recommend corrective
+actions. Communicated with personnel about potential threats to the work environment. Partiopated in
+ferensicrecovery and analysis, Patcpated in development and maintenance of glabal infrmation security
+policy
+
+11/2002 - 12/2004 BEGU (formerly Boeing Tukwila, WA,
+Employees Credit Union)
+TT Network & Security Analyst
+
+Maintained security of voice and data networks and equipment, Monitored and maintained physical and
+logical security and access to systems. Responsible for support of existing security polices and procedures,
+as well as creation and implementation of new security procedures, Risk assessment of partners. Presented
+options to management for the enhancement of DNS, firewall, modernization of firewalls and inbound e-mail
+security and robustness. Assisted with the upkeep of netvork infrastructure Induding switches andl
+Balancers. Aesisted in migration of VPN concentrators to new project. Achievements indude completing
+“TruSecure enterprise certification, and development of incident handling procedures.
+
+ 
+
+ 
+
+ 
+
+1/2001 - 8/2002 —nternap Network Services Si
+Security Systems Engineer, Core Systems Development
+
+ 
+
+Used previous experi focus on securing information and systems. Trained and mentored
+employees in many jo xrding security and system basis, best practices, etc. Documented
+esting and in-development polices, procedures, and systems. Deployed distributed intrusion detection
+Sensor network. Security lead on new product design team. Business continuty consulting. Developed into
+lead security person at company.

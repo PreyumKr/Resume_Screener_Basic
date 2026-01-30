@@ -1,0 +1,62 @@
+Robert Smith pone erate
+
+1737 Marstullle Road,
+Alabama
+
+Python Developer (123)-456-7899
+- Infegeewikresume. com
+wwweqwikresume.com
+PERSONAL STATEMENT
+Good experience of software development in Python and IDEs - sublime ‘SKILLS
+text, PyCharr. Experience In Python, Robot Framework. Technical DJANGO, HTML, JQuery,
+experience in supporting applications which use an abject-orlented
+programming language Vave). Experience In using Pandas python Wares MYSQH PYTHON
+uring development lifecycle, Excellent experience with Python,
+development under Linux 05 (Ubuntu), Experienced in viting SOL
+Queries, Stored procedures, functions, packages, tables, views, triggers. Lanauaces
+English (Native)
+WORK EXPERIENCE French (Professional)
+
+Spanish (Professional)
+Python Developer
+Varite Inc- April 2014 - Present
+
+‘Re sponsibilities: INTERESTS
+© involve nthe developméite he eppltion using python. 3, rms, linlng
+CSS3, AJAX, JSon and JQuery. Snowboarding
++ Developed the appletions using ANGO, 7 MTV framework whichis SaBking
+Fase nyse Ve lesion garry
++ Extensively used DJANGO technologies, which includes forms, terpates
+fee con fs copinrielcn wi autbese in fe ere
+Extensively used interceptors, validators, actions using DJANGOL. 7 REFERENCES
+pe fee entree
++ Used perforce version control system and Python Tools for Visual Name)
+
+Reference - 2 (Company
+
+Studio(PTVS) IDE. Name)
+
++ Create and write result reports In different formats lke txt, csv, xls, and
+Jon.
++ Worked on CSV files while trying to get Input from the MySQL database,
+
+Python Developer
+‘ABC Corporation - 2010 - 2014
+re sponsibilties:
++ Wrote python scripts to parse xml docurnents and load the data in the
+database,
++ Used pandas api to put the data as time series and tabular fornat for
+feast timestamp data manipulation and retrieval
++ Was involved inthe environment, code installation as well as the svn
+Implementation,
++ Cleaned data and processed third-party spending data into
+maneuverable deliverables within specific formats with excel macros
+‘and python libraries,
++ Ensured high quality data collection and maintaining the Integrity of the
+data.
+* Collaborated with Internal teams to convert end user feedback Into
+meaningful and improved solutions
++ This project also used other technologies like jquery for javascript
+‘manipulations, bootstrap forthe front-end htm! layout,
+
+(2 Ths Ee Resume Temlate the copyright of Qukesurne cor. Usage Gustine

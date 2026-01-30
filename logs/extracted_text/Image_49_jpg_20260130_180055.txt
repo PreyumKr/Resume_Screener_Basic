@@ -1,0 +1,60 @@
+Robert Smith hone (128) 456 7899
+
+Email Infocauikeesume,com
+
+AWS Devops Engineer Lineal: trad comiltesre
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+ 
+
+SUMMARY
+
+Experienced DevOps Engineer dedicated to automation and optimization for 7 years, Understands
+‘and manages the space betw een operations and development to quickly deliver code to
+ustomers. Has experience with the Cloud, as well as DevOps alitornation development for Linux
+Systems, Brings matty, erthuslsm, and adv t learn new technlogles along wth ral world
+experience,
+
+SKILLS
+
+Knowledge of networking, Knowledge of coud computing
+WORK EXPERIENCE
+
+AWS Devops Engineer
+University Of MN-Jenuary 2014 2020
+* Creating the autornated build and deployment process for application, re-engineering setup
+for better user experience, and leading up to building a continuous Integration system for ll
+our products
+Implemented AWS solutions using EC2, $3, ADS, EBS, ElasticLoad Balancer, Auto scaling
+droups,
+Responsible for Design of diferent Release Environments for new projects and monitering
++ Implementing 2 Continuous Delivery framework using Jenkins, Chef, Maven Samp; NexUs in
+Linux environment
++ Installed Chet-Server Enterprise On-PremiseWorkStatiory Boctstrapped the Nodes using Knife.
++ Designed and implemented Chef, including the internal best practices, cookbooks, automated
+cookbook Cl and CD system,
+Made use of Jenkins for Chef Cl, Thor for versioning, Berkshelf for dependency management,
+‘and Test-Kitchen for testing and development,
+
+AWS Devops Engineer
+
+Delta Corporation - 2021 - 2014
+Key Deliverables Technical leader to align processes and tools, such as branching, source
+Control structure, dependency management, LinuxWindows hybrid build infrastructure, code
+review, and checkin polices, that are developed and instrumented by DevOps teams across
+projects globally
+Managed Libuntu Linux and Windows virtual setvers on AWS EC2 using Puppet.
+Experienced with working on Puppet Master and Puppet Agents.
+Defined Puppet Master andl Puppet Agents to manage and configure nodes.
+Deployed Puppet, Puppet dashboard for configuration maniagernent to existing infrastructure,
+Designed and deployed AWS solutions using E2C, $3, RDS, EBS, Elastic Load Balancer, Auto
+scaling groups, Opsworks Performed Server configuration management via Puppet.
+“Transparent Bata Encryption (TDE) implementation Database Encryption fer mirrored
+Databases.
+
+EDUCATION
+
+Bachelor of Technology in Computer Sclence - NTU}
+
+(0 This Fra Resume Taublat is the copyright of Qwakesume com. Usage Guida

@@ -1,0 +1,61 @@
+ 
+
+ 
+
+ROBERT SMITH
+Puppet Developer/DevOps Engineer
+ent dO qutimncccom hs i da
+
+Amsund 8+ years of IT industry experience asa DevOps Engineer, compromising of DevOps, Build
+Engineering and Release Management process including end-to-end code configuration, building binaries &
+eployments of utifuts and ent lifecycle model in Enterprise Applications. Good understanding of
+SDLC withexpenise on software Build/Release, Configuration management,
+
+Server Apiche, Tomcat, MS-LS Release/Project Management Micrasft Release Management Server Issue
+‘Tracking/Monitoring Bugzilla JIRA, Service Now, HPSM, Cloud Watch And Nagios Configuration
+Management Tools Chef, Puppet, Docker, Openstack Database My SQL Version Control System
+‘Subversion (SVN}, GIT, GITHUB, BITBUCKET, CVS, SVN, Mercurial, RTC Cl Tools Jenkin,
+
+‘Bumbo Maven, Ant Operating System Windows Variants, Linus, and UNIX.
+
+sae
+
+Puppet Developer/DevOps Engineer
+ABC Corporation -Janwary 2014 — Preset
+
++ Working losely withthe development and operations organizations to implement the necessary
+tools and process to suppon the automation of builds, deployments testing and infrastrctare
+Ainfmstructreas code) using chef
+
+Developing Chet recipes to configure, deploy and muintain software components af the existing
+intrastoctore
+
+1 Moving their local server infrastrcture ito AWS, incloing their est and development
+
+‘Designing the application layer of the prohict With «2, rds, and elastic cache, and configuring
+‘AWS clon watch for application monitoring.
+
+1 Establishing both astomited fild processes and release management processes for their LMS.
+platform using Jenkins, ant, maven, and chef,
+
+Experience with DevOps tols Jenkins, maven, andl nexus (ar equivalent repository) with experience
+in Jenkins orchestration, configuration management.
+
+* Setting up Jenkins cntinicus integration hilds forall relewses cm windows and Linux.
+
+DevOps Support Engineer
+‘ABC Corporation - October 201  ~ December 2013
+
++ Responsii lites Working for DevOps Platform tm responsible forspecialization areas related 80
+the chet forcloud automation,
+
++ Applicat of automation tools ike chef, puppet, DevOps based on th requitements
+
++ Deployment and implementation ofthe che for infastruture as ead init,
+
+(© This xe esume Tamla he op of Owitroamecom, Kas Gals
+
+ 
+
+ 
+

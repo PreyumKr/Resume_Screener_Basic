@@ -1,0 +1,60 @@
+Robert Smith couract DeralLs
+
+1737 Nara Rood,
+Jr. Python Developer taza) a56 7000
+sivwcqwilresuine.com
+
+PERSONAL STATEMENT
+
+Looking for a sultable position with a company where outstanding SSIES
+performance is recognized and rewarded and vere he can work on @ HTML, JAVASCRIPT:
+variety of high profile web back: end projects, JQuery, PYTHON, CSS
+WORK EXPERIENCE
+LanGuaces
+Je: Python Developer
+Goldman Sachs December 2016 - Present English Native)
+Re sponsibities: Spanish (Professional)
+* Developed views and templates with django view controlar and
+template language te create a userfriendy webste interface
++ Implemented user interface guidelines and standards throughout the WTERESTS
+development and maintenance ofthe website using the HTML, CSS, Climbing
+Javascript and jQuery. Snowboarding
++ Created APIS, database model and views utilization python in erderto —-—-Gaoking
+buld responsive web page application Readng
++ Implemented user interface guidelines and standards throughout the
+development and maintenance of the website using the HTMLS, CSS
+JavaScript, JQuery and Angular 15 REEERENCES
++ Developed views and templates with Python arid Dlangos view Reference - 1 (Comnpary
+controller and templating language to create a usercirlendly webslte Name)
+interface. ferera zicareey
+
+‘+ Worked on rest PI calls and integration with UL. Used Angular JS to
+develop the component to the application team, Spring MVC to
+consume rest APIS and used JavaScript, CSS3 and JQuery to display the
+data in frontend
+
++ Developed views and templates In Dlango to create a user-friendly
+‘website interface.
+
+Python Developer
+‘ABC Corp - 2014 - 2016
+Fesponsibilties:
++ Wrote python scripts to parse xml docurnents and load the data in the
+database,
++ Used pandas api to put the data as time series and tabular fornat for
+feast timestamp data manipulation and retrieval
++ Was involved in the environment, code installation as well as the svn
+Implementation,
++ Cleaned data and processed third-party spending data into
+maneuverable deliverables within specific formats with excel macros
+‘and python libraries,
++ Ensured high quality data callection and maintaining the ntegtty of the
+data.
+* Collaborated with Internal teams to convert end user feedback Into
+meaningful and improved solutions
++ This project also used other technologies like jquery for javascript
+
+(Ths Ee Resume Temlate the copyright of Qukesurne. cor. Usage Gustine
+
+ 
+

@@ -1,0 +1,77 @@
+ROBERT SMITH
+Sr. SQL Server Developer
+
+-E-mall infowgwikresume-com Phone: (0123)-56.709
+SUIS
+
+Sr SQL-Server Developer with over 7s years of TF experience inthe Finance domain and Experience in
+Datahase Design, Development, and Support of MS SQL Server 2012, 2008, 200Sand 2000. Hanson
+experience in Installing, Configuring, Managing, Mentoring. Troubleshooting, Lipgrading and Migrating
+‘SQL-Server Expense with DDL and DMI. statements, RDBMS, data divtionaries an normal fom.
+Experience in using Try Catch flock intiuced m SQU. Server 2005,
+
+ 
+
+ 
+
+(OL Server Management Sticio, Husiness Itllgense
+Development Studio, SQL Profiler, SQL Server Analysis Service (SSS) ETL Tools Data Transformation
+‘Senices (DTS) -Espeav/mpom, SQL Server Integration Service (SSIS) Repomting Tools SQL Server
+‘Reporting Services MS Access, MS Excel, Crystal Reports XI Database MS SQL Server MS Access,
+(Oracle Programming T-SQL., PL-SQL, C#, ASP.Net. VB. Web Technologies HTML, DUTML, XML, VB
+Script, IavaScript (Valuation). Operating Systems Windows Visa, DOS, UNIX, Modeli
+Techniguss/Tools How Chans, Sequence Diagrams, Activity Diagrams, Use Cage Diagrams, Data
+‘Medeling. ER Diagrams, MS Visio, MIS Visual Source Sale SharePoin Designer 2010,
+
+SEE
+
+Sr. SOL Server Developer
+‘Wells Fargo -Ovtoher 2015 ~ Present
+
+SQL Enterprise Manager, Query Analyzer
+
+ 
+
+  
+
+ 
+
++ Involving in all phases of SDC, andl gathering business requirements fmm business people,
+
+4+ Converting Data Transformation Services (DTS) application to SQL Server Inegratedl Services
+(SSIS) assigned,
+
+‘Developing DTS packages to ext, rstorm an load into the campaign database frm OLTP
+\nubase using SQL. server imeprtion services (SSIS),
+
++ Creuted ETL metadata reports using SSRS, reports including exccuton times forthe SSIS packages,
+failure reports ith the err description
+
++ Designed SSIS packages to exact, transfer, load (ETL) exiting data ito SQL server trom different
+csifonments,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Creating complex stored procedures using a Inked server, CTE; temp table, SQL joins, ranking
+{unctions an dynamic SQL and responsible for performing SQL tuning, multi-tasking and
+‘optimizing queries which takes kmger time in execution with SQL server 2008/2012.
+
+4+ Performing documentation fr al kinds of reports and DTS andl SSIS packages.
+
+SQL Server Developer
+ABC Comp -2011 2015,
+
+ 
+
+Used Various ETT tools like SSISIDTS for data Mow from source les ike XNIL, Excel, tables, and
+‘views to other databases or tiles with proper mapping,
+
+(© Thi se Resume Templates he eepyrgh of Opies: cm, Lag Gulins

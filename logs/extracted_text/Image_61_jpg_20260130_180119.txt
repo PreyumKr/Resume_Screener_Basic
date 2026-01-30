@@ -1,0 +1,59 @@
+4 hone: (173) 456 78 99
+DevOps Engineer II malt Infogquilkresume.com
+
+ROBERT SMITH vnuean como
+Address: 1727 Marshulle Road
+
+ 
+
+Objective
+
+Over 6+ years of IF Industry experience as a DevOps Engineer, with Configuration Management,
+Bld, Release Management and Quality Assurance using CVS, Subversion, GIT, Mercutlal & Clear
+(Quest on UNIX and Windows environment. Knowledge of puppet as a Configuration Management
+‘ool, to automate repetitive tasks, quickly deploy critical applications, and proactively manage
+‘change. Set Up the frarnework for one clicks Build and deployment on non-production
+environments
+
+si
+
+ 
+
+‘Web/Application Servers:-Tomeat, HTTP Server, Weblogic. Bug Reporting Tools: SDM-22, Bugzilla,
+JRA, Confluence, And Rational Clear Cuest. DevOps: Chet, Puppet, OpenStack, AWS, Ansible
+Docker, and Vagrant.
+
+Work Experience
+
+DevOps Engineer I
+ABC Corporation - January 2015 - Present
+Providing infrastructure solutions based on amazon web services(AWS) In fast-paced,
+challenging, innovative compary focused on reliability and customer service.
+Decisive and effective quality and operations manager are sklled In leading cross-functional
+teams to meet customer quality and production demands with deadlines.
+Research, endorse and Implements network enhancements lmpraving system rellablity and
+performance.
+Invalye In DevOps migratior/aitornation processes for bulld and deploy systems,
+Implernent the bulld automation process for al the assigned projects In vertical apps domain
+monitors the UAT/production environments for ary downtime issues by perforrning regular
+CRON job updates in servers.
+Experienced in a waterfall, TIL, SOLC, aglle, and hornedravin methodologies,
+Working with git hub enterprise to manage source code repositories and performed
+branching, merging, and tagging depending on the requirement.
+
+Puppet Developer/ DevOps Engineer
+‘ABC Corporation - January 2013 - December 2014
+Responsible for creating puppet modules and manifest files from scratch and experience In
+editing existing puppet rmanifests and autornated manual installation processes using the
+puppet.
+Gave users access to the AWS server with the right permission and also ensure that our
+sudoers file has the proper permission and also give sudaers permission to spectic users
+Using the puppet master server.
+Responsible for versioning the source code, releasing binary files, creating and applying labels
+fn source files and release fles,
+Managing the code migration from CVS and star team ta the subversion repository
+Experienced in branching, tagging and maintaining the version across the environments using
+SSCM tools Ike ait, subversion (svn on Linux and Windows platforms,
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

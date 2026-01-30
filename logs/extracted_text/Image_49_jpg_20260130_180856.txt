@@ -1,0 +1,63 @@
+Informatica Etl Developer III Phone! (129) 456 7890
+
+Ema: olocquilresume.com
+Website: uunw.qwikrestme.cmt
+
+ROBERT SMITH Linkedin: linkeda.com/qwikrestime
+‘Address: 1797 Marshville Road,
+
+Alabama
+
+Objective
+
+Over 7+ years of combined Industry Experience as an ETL Developer in desigaing, developing and
+Implementing ETL processes for business applications, Have clear understanding of Data
+Warehousing concepts with emphasis on ETL and Life Cycle Development including requirement
+analysis, design, development, lesing and implementation,
+
+Skills
+
+Informatica, ETL, SQL Server
+
+Work Experience
+
+Informatica Etl Developer III
+‘ABC Comporation - Avxust 2012 ~ December 2014
++ Understanding the Business requirements based on Furitional specification to desig the BT.
+methodology th technical specifications
++ Developed dala conversion/quallly/cleansing rules and executed data cleansing activites
+Responsible for developing, support and mainlenansce for the ETL (Extract, Transform and
+Lost!) processes using tnformaliea Power Center 9.5.
+Involved in integration of heterogencots data sourees like, Salesforce, SQL Server and Flat
+Files (Fixed &amtp: delimiea nla Staging Area
++ Performed analysts, desig, development, and configuration functions as wel as define
+lechial requirements for assignments of intermediate complesty
++ Participated with teams to perform analysis, assessment and resolution for defects ant
+Incidents af tntermediate complexity and escalate appropriately.
++ Worked within guldelines set by team to independently tackle well-scoped problems,
+
+Informatica Btl Developer
+Delta Corporation - 2008 2012
+* Description InfaTech enterprises Limited are a global engineering services and solutions
+company,
++ thas 11,000+ employees acrass $8 global locations as of November 2013,
+* Infotech Enterprises Is among the top 100 outsourcing companies in the worl
++ Responsibilities interacted with business analysts, dala archilects, application developers to
+develop a data model
++ Desigied and developed comple aggregate, jon, look up transformation rules (business rules)
+to generate consolidated ({act/summary) daia identiied by dimensions using Informatica
+Power Center 6.x/7.0 tool
++ Created sessions, database conncetlons atid batches ustty Informatlea Server Mai
+flow Manager.
+* Optimized mappings, sesslons/asks, source, and tamjet databases as part of the performance
+fing.
+
+ 
+
+sger/ Work
+
+Education
+
+Bachelor's in Computer Selence - (INT University - Hyderabad, Andhra Pradesh)
+
+(Tas Pree Resume Template bse copyright of Qutkretmesom. Grate Guldaines

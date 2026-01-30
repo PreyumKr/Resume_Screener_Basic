@@ -1,0 +1,59 @@
+Joseph Russell “ees
+
+Python Developer
+
+Summary
+
+Experience PySpark developer with 4+ years of experience in buldng scalable and dstributed data processing
+Soltions.Protcentin developing complex EL pipelines using Spork SQL. and NoSQl_ databases Committed
+¢elvering high-quality work and continuously improving sis to stay current with new technologies.
+
+Work experience
+Company Nome, Gy, tate
+PySpark Developer, Employment Dates
+
++ Designed and developed ET. pain using PySpark and Hive to process large datasets na stibuted
+
++ Cllaorated with data scents and business analysts to understand requirements and develop data models
+that suppor data analysis and busines intel gence
+
++ Mose th Nest ates Shas Hse Casandra. an rgi08 oso manage age values of
+
++ Developed and maintained data processing a cleansing Srp using Python and PySpark
+
+* Optimized Spark jos by tuning performance parameters and implementing best pracces for parttioning and
+caching daa
+
++ Grested and maintained data pipelines using Apache Airflow to schedule, monitor and manage workfows
+
+‘+ Developed and depioyed machine learing models using PySpark a Hraries suchas MI and TensorFiow to
+perform predictive nays on large datasets.
+
++ Conducted code reviews and mentored junior developers on PySpark bes practices, leading to improved code
+‘quali and faster delivery ines
+
+Company Name, Gy, State
+Py Spark Developer, Employment Dates
+
++ Developed and maintained PySparkased data processing pipelines for batch and streaming data using Kaa,
+Spark Sreaming and Spark SQ.
+
++ Designed and implemented a data lke architecture using ANS S3, Ge, and Athena, allowing fr flexible and
+Scalable data storage ana querying.
+
++ Bult and deployed PySpart based! machine learning models for predictive maintenance and anomaly detection
+‘an industrial equipment
+
++ Worked with DevOps teams to deploy and maintain PySpark jobs on Apache Mesos and Kubernetes dusters,
+
+1 Conducted techni interviews foe hing cancidates and povided feck on PySpk kil nid etna
+knowledge
+
+Skills
+Programming: Apache hi TT A A A A
+
+Programming: Caching a
+Programming: Git a
+Big Data: Apache Kafka Se
+
+Big Data: Cassandra A

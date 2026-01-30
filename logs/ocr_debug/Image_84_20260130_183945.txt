@@ -1,0 +1,70 @@
+Preliminary Tester Phone: (125) 456 78.99
+
+Ema: olocquilresume.com
+Website: uunw.qwikrestme.cmt
+
+ROBERT SMITH Linkedin: linkeda.com/qwikrestime
+‘Address: 1797 Marshville Road,
+
+Alabama
+
+Objective
+
+‘Seastnied professional with 4+ years of industry experience, Managed business partner and
+management expectations while working an visible and high impact projects. Worked directly with
+the client in right from Proposal submission to Program execution activities. Played key role in
+steering a data lransfarmation program for reputed clients,
+
+Skills
+
+‘Aulomation Expert, Testing Methodologies, ETL Testing SME, Data Migration Testing, Web Testing,
+IVR Testing, SAP-HICM Testing, Mobile Tesling, Program Management, Project Management.
+
+Work Experience
+Preliminary Tester
+
+‘ABC Corporation - April 2008 - May 2008
+
++ Collaborate with business units to define requirements Samp; reporting solutions.
+
++ Identify the reporting approach based on the requirements to be salisiied
+Involved in Analysis and Design wallalhreughs, and created Syslem Test plan and System test
+csases out of requirements.
+Involved {n creations of Testbed forthe execution of test eases tn LIND Input ies,
+
++ Aulomated Test data set up preparation using shell and Unix seripting,
+
++ Identiled Test eases sulting automation requirements,
+
++ Managed Test resulls through Rational Test Manager, aso involved In Transition Activities and
+cchdtser taining,
+
+Tester
+‘ABC Corporation - 2002 - 2004
+
+* Environment JAVA, C, Pulty, Winsep, AML Quality Center, Quick Test Professional Project
+‘Description Procure ta Pay project involved tracking all the payable involees, workllows apd
+vendor management.
+
++ Testing Included validating various invoice processing, workflows, and vendar integration.
+
++ Analyzed various documents and prepared test eases covering all requirements of the
+application.
+
++ Converted lest eases for various test ses to organize the execution pmcedure 1a meet the
+project timeline anid timely deliverables,
+
++ Tested functionallies of the application lke payable workflow Created test data far different
+linvoloes with the Procure ta Pay module forex Projects, Worl order and Recurring. non
+Recurring and Leases.
+
++ Provided functional demos ot the P2P tnvalce workflow ta the bustness,
+
+* Discussed the test eases for regression testing with the quality engineers Created automated
+regression lest sevipis wilh a hybrid driven approach using GTP 92 Executed the Aulomaled
+lest seripts and did an end-lo-end analysis of the laled test seripts and debug the same.
+
+Education
+
+(Tas Pree Resume Template bse copyright of Qutkretmesom. Grate Guldaines
+

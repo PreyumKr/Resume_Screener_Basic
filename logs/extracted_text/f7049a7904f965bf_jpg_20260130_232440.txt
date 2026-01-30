@@ -1,0 +1,152 @@
+Jill Van Beest
+
+ 
+
+(OCA centtied SQL. developer with 3 years of experience, seeking to use proven Oracle and PLISQL
+
+skis to improve data management at CyrusOne. Delivered 10 DB projecs at GNG on time and 15%
+
+under budget. Freed up 50 hrs/mo at PinkSky Tech through back-end automation.
+
+Experience
+
+2016-07 -
+2018-08
+
+2015-05 -
+2016-06
+
+2018-06 -
+2015-05
+
+Education
+
+2010-
+20a
+
+SQL Developer
+
+Gamma News Group
+
++ Led development of 10 database projects for customers. Completed projects on
+time and an average of 15% under budget, with high customer reviews.
+
++ Used dialogue-mapping o gather requirements to 98% customer satisfaction,
+
++ Used Oracle data modeling to boost productivity and cut production costs 10%.
+
+SQL Developer
+
+PinkSky Tech Worldwide
+
++ Designed and created 3 onsite databases. Maintained a group of 25 databases.
+Through automation, improved efficiency 159, teeing up 50 labor hrs/mo,
+
++ Updated and enforced security procedures, assuring 20% less breach isk,
+
++ Wrote scripts to automate software updates, saving 3 programmer hoursimo.
+
+‘SQL Developer Experience
+
+Various
+
++ Created a restaurant management database, Included functionality to handle all,
+{ood and beverage inventory, Saved manager an estimated $400 per month
+
++ Created database back-ends for three mobile apps.
+
++ Integrated database functionality ito a sales website for fee shirts and hats.
+
+BS in Computer Science, Mohave Community College
++ Pursued a passion for database architecture coursework
+
++ Excelled in security classes.
+
++ President, Bighorn Decoders Computer Club
+
+Additional Activities
+
+Certificates
+
++ Member, Women in Technology
++ Volunteer to walk dogs monthly at Arroyo County Shelter
++ Lead a weekly mountain biking club
+
+OCA: Oracle Database SQL Cetiled Associate
+
+Conferences
+2017 DEvVintersection- Spoke on a panel about SSIS Development
+206 PASS Summit
+Publications
+
+Article on SQL injection published in Oracle Blogs
+
+‘Antcle on Common Table Expressions published in WebAppers
+Awards
+
+Recipient, Most Valuable Tech Employee 2016, Gamma Nexus Group
+
+Personal Info
+Phone
+505-918-0381
+
+em
+sMlvanbeest@gmaicom
+
+ 
+
+Linkedin
+linkedin.convinjilvanbeest
+
+‘Twitter
+‘wit convilvanbeest
+
+Soft Skills
+
+Interpersonal Skits
+
+ 
+
+Collaboration
+
+ 
+
+‘Communication
+
+ 
+
+Problem Solving
+
+ 
+
+Hard Skills
+
+Oracle
+
+PUSQL
+
+SSIS Development
+
+ 
+
+Database Architecture
+
+ 
+
+ 
+
+  
+
+Expert
+security
+
+eoce
+
+Expert
+
+‘Common Table Expressions
+
+ee
+
+Advanced
+Reporting

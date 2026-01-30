@@ -1,0 +1,58 @@
+Oracle PL/SQL Developer Phone: (123) 456 78 99
+
+mal Infoequleresure.com
+ROBERT SMITH * ass tao
+
+‘Address: 1737 Marshville Road,
+Alabarna,
+
+ 
+
+Objective
+
+Oracle PL/SQL Developer with over 2 years of programming experience as an Oracle PL/SQL
+Developer in Analysis, Design, and implementation of Business Applications using the Oracle
+Rolatlonal Database Management System (RDBMS). Involved in all phases of the SDLC (Software
+Development Life Cycle) from analysis, design, development, testing, Implementation, and
+maintenance with timely delivery against aggressive deadlines.
+
+Skills
+
+Cracle 104/129 (SQL, PL/SOL, Stored Procedures, Tiggers), MS SQL SERVER 082, Teradata, MS
+‘Access, ETL Tools: Informatica (Power Center AB Initio And SOL Loader.
+
+Work Experience
+
+Oracle PL/SQL Developer
+Discover Financlal Services january 2014 june 2015
+Involving Inthe full development cycle of PLanring, anabsis)desian, development; testing
+and implementation
+Designing lodal and physical dita models for star apd showntake schernas using Erwin
+Created and modiied SQL Plus, PL'SOL and SQL Loader script for data conversions
+Developed and modified tragers, packages, functions and stored procedures for data
+Conversions and PLISOL procedures to create database objects dynamically based on User
+inputs.
+Wrote SQL, PL/SQL, SQL PLUS programs requlred to retreve data using cursors and exception
+handling
+Creating Indexes on tables ta improve the performance by eliminating the ful table scans and
+views for hiding the actual tables and to eliminate the complexty ofthe large queries
+Goorainating wth the front-end design team to prove thom with the necessary stored
+procedures and packages and the necessary Insight Ito the data
+
+Oracle PL/SQL Developer
+‘ARC Corp- 2013-2014
+Involved in the continuous enhancements and fixing of production problems
+Generated server side PL/SQL scripts for data manipulation and validation and materialized
+views for remate instances,
++ Developed PL/SQL triggers and master tables for automate creation of primary keys.
+* Completed application coding assignments that meet provided technical specifications and
+end-user requirements,
+Payticipated inthe design process that generates application functional and technical
+specifications
+Bocurmented the application design specifications and implementation procedures to improve
+‘application quality and reuse of code,
+Assisted in the creation of unt, integration, function, and performance test scripts to improve
+‘application quality and ensure fuifliment of requirements.
+
+(© This Free Resume Template is the copyright of Quikresume.com. Usage
+‘Guidelines

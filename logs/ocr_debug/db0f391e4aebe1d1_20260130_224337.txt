@@ -1,0 +1,59 @@
+Robert Smith hone (12) 456 7890
+
+Email Infoguvikresume,com
+
+Cloud DevOps Engineer ireas inked econsewigenere
+
+‘Address; 1737 Marshullle Road, Alabarna
+
+ 
+
+SUMMARY
+
+‘Asa Cloud DevOps Engineer, designed, developed, tested, implemented and supported of the
+Cloud platform ecosystem, Led efarts to create Infrastructure to strearnline development and
+deployrnent of applications using modern Cloud DevOps practices, Reported to the Cloud Engineer
+‘am Lead. Work required is considered advanced and you must be ableto worked under rial
+supervision.
+
+SKILLS
+
+Leadership, Creative Skills.
+WORK EXPERIENCE
+
+Cloud DevOps Engineer
+Redapt - September 2014-2023
+Automated build and release processes Code and Resource delivery to Azure and AWS.
+Automated enboarding of teams and users into Azure and AWS erw/ironments.
+Designed and defined AWWS architecture for new cloud computing systerns or esting systems
+‘migrating to cloud architectures
+Managed and tmentored a tearm of software/AWS/AUtornatlon engineers in systerns,
+Developed and enforced standardized AMlérsquers and AWS policy enforcernent, AWS cost
+‘optimization and education,
+Worked directly with the infrastructure and DBA teams to triage and troubleshoot all
+escalations on a custorner-facing application,
+Developed and Enhance SaasiCloud based applications. Worked with localremote
+Developrent/SOA teams to support the delivery, deployment, and operation of services,
+
+Cloud Devops Engineer
+Detta Corporation - 2001 - 2014
+AWS, Joyent, Goodie Cloud, Centurylink Cloud etc
+* very knowledgeable in regards to DevOps / Aitomation with Docker and Continuous
+Deployment procedures using tools such as Ansible, docker-machine, docker-compose
+Mesos / Mesosphere, Marathon, etc
+Development and Automation for Deploying Containers, Applications, and Provisioning Public
+Cloud Environments
+Wide variety of experience with the Linux operating system, Ubuntu server, Centos, Amazon
+Hux, Kal, Backtrack, ete
+‘Wide varlety of experience for Network Security, Penetration Testing, and ensuring security of
+both public and private cloud environments
++ Major Software junkie, and adapts te new technology / software very quickly and efficiently
++ Proficiency in both infrastructure-as-code tools like Terraform and AWS Cloud Formation and
+Infrastructure configuration management tools such as Ansible, Puppet. or Chet
+
+EDUCATION
+
+Bachelor's In iT
+
+(0 This Fra Resume Tablas the copyright of Qwakesume com. Usago Guida
+

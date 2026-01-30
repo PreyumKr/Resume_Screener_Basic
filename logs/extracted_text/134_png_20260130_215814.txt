@@ -1,0 +1,297 @@
+JESSICA CLAIRE
+
+100 Montgomery St
+
+10th Floor
+
+(555) 432-1000 - resumesample@example.com
+
+PROFEssIONAL SUMMARY
+
+ 
+
+Jessica Gavkagtt has been working as SAP PM Consultant since 2013, SAP
+He has technical expertise on various SAP platforms such as:
+
+* SAP PM Consultant
+
+* Sap Fiori configuration
+
+* Design and implementation of Sap Fiori screens.
+
+* Gatew:
+* Gateway Abap
+
+* SAP UIS
+
+* Java Script & JQuery
+
+* HTML & CSS
+
+* Google Cloud
+
+* FireStore
+
+* Google Maps
+
+* Three,js Library
+
+* React Native & React JS
+
+ 
+
+Semis
+
+Fiori & NetWeaver Consultant since 2015.
+
+ 
+
+* SAP PM Consultant
+
+Sap Fiori configuration
+
+Design and implementation of Sap Fiori screens.
+Gateway
+
+Gateway Abap
+
+SAP UIS
+
+* Java Script & JQuery
+
+‘Worx History
+
+HTML & CSS
+Google Cloud
+
+FireStore
+
+Google Maps
+
+Three js Library
+
+React Native & React JS
+
+ 
+
+03/2021 to 12/2021 SAP UIS & FIORI TEAM LEAD
+VEKTORA - City, STATE
+
+‘* Traveled to client locations to implement SAP solutions and offered post-installation support services.
++ Architected SAP solutions by prioritizing simplicity, appropriate scale, resiliency and maintainability
+* Designed, developed, modified and debugged programs
+
+‘* Coordinated deployments of new software, feature updates and fixes.
+
+‘* Designed and developed applications.
+
+‘* Maintained existing applications and designed and delivered new applications.
+‘© Built, tested and deployed scalable, highly available and modular software products.
+
+‘* Designed deployment automation solutions to expedite implementation of SAP solutions.
+
+‘* Delivered SAP training, user support and knowledge transfer at end of project and followed up to verify successful
+
+implementation.
+
+03/2018 to 03/2021 SAP UIS & FIORI LEAD CONSULTANT
+VEKTORA - City, STATE
+
+‘* Designed deployment automation solutions to expedite implementation of SAP solutions.
+‘© Designed and developed applications and analytical data structures.
+
+‘* Developed next generation integration platform for internal applications.
+
+‘* Designed and developed forward-thinking systems that meet user needs and improve productivity.
+
+‘* Designed, developed, modified and debugged programs
+
+‘* Authored code fixes and enhancements for inclusion in future code releases and patches.
+
+‘ Prepared test plans and test cases based on applications requirement documents for Sap UIS.
+
+‘© Wrote clean, clear and well-tested code for various projects such as Java Script and SAP UIS
+
+* Documented software development methodologies in technical manuals to be used by IT personnel in future
+
+projects.
+
+‘* Maintained existing applications and designed and delivered new applications.
+
+09/2015 to 03/2018 SAP UIS CONSULTANT
+DETAYSOFT - City, STATE
+
++ Architected SAP solutions by prioritizing simplicity, appropriate scale, resiliency and maintainability
++ Traveled to client locations to implement SAP solutions and offered post-installation support services.
+‘* Multitasked and managed multiple deliverables and projects concurrently and facilitated use of SAP for enterprise
+
+resource planning
+
+‘© Designed deployment automation solutions to expedite implementation of SAP solutions.
+‘© Wrote code on SAP UIS platform using SAP WEB IDE.
+
+‘* Coordinated deployments of new software, feature updates and fixes.
+
+‘* Maintained existing applications and designed and delivered new applications.
+
+‘* Developed conversion and system implementation plans.
+
+‘* Designed, developed, modified and debugged programs
+
+07/2013 to 03/2018 SAP PM Functional Consultant
+DETAYSOFT - City, STATE
+
+ 
+
++ Troubleshot incidents reported by end-users to schedule system changes and identify permanent solutions
+‘© Developed flowcharts and diagrams to describe and lay out logical operational steps
+* Collaborated closely with upper management to drive strategy through development and implementation of new
+
+processes,
+
+‘* Developed team communications and information for meetings.
+
+ 
+
+Epucation
+
+07/2013 Bachelor of Science: Computer Engineering
+HALIC UNIVERSITY - TURKEY
+
+AFFILIATIONS
+
+ 
+
+https://wwwlinkedin.com/in/Jessica-Y%C3%A Tavka%C3%A Tt%C4%B1-85534962/
+
+ 
+
+ 
+
+(CERTIFICATIONS
+
+React Native
+
+Lancuaces
+Turkish English:
+Negotiated: Negotiated:
+
+ApprTIonaL INFORMATION
+
+ 
+
+PROJECTS
+* Iworked 25 projects. I list some projects below
+
+Borusan Holding
+Company : Borusan Holding, Turkey
+Period : 4 month
+
+Scope : FLFM Modules
+
+Position : SAP Fiori & UIS
+
+Responsibilities
+—A dashboard was developed to manage incoming invoices
+
+— Invoices displayed in html
+
+—Paf documents added
+
+—Budget Availability, Budget Reporting screens have been improved
+~ Test, Go live and Support
+
+ENDA
+Company : ENDA, IZMIR, Turkey
+
+Period : 5 month
+
+Sector : ENERGY
+
+Scope : Fiori Developments and Implementation
+
+Position : SAP Fiori & UIS Consultant
+
+Responsibilities
+
+— Process analysis
+
+— Fiori configuration
+
+— Gateway Configuration and Gateway Abap
+
+— Google Maps Entegration
+
+— Power Plant Monitoring Cockpit, KPI Monitoring and Dashboard
+— Test
+
+ 
+
+~Go live
+
+KALE
+Company : KALE, CANAKKALE, TURKEY
+
+Period : 8 month
+
+Sector : CERAMIC
+
+Scope : IOT , Industry 4.0
+
+Position : SAP Fiori & Netweaver Consultant
+
+Responsibilities
+
+— Process analysis
+
+— Google Cloud Entegration
+
+— FireStore Entegration
+
+— Real-time data reading and monitoring
+
+KPI Monitoring and Dashboard
+
+— 3D Factory Layout Monitoring and Dashboard(Three js library used)
+
+STM
+Company : STM, ANKARA, TURKEY
+
+Period : 5 month
+
+Scope : Fiori Developments and Implementation
+
+Position : SAP Fiori & UIS Consultant
+
+Responsibilities
+
+— Process analysis
+
+— Fiori configuration
+
+—PS MODULE PROCESS(PROJECT MANAGEMENT COCKPIT)
+— Test
+
+Go live
+
+ISTANBUL AIRPORT
+Company : ISTANBUL Airport , ISTANBUL, TURKEY
+Period : 6 month
+
+Sector : Airport
+
+Scope : Fiori Developments and Implementation
+Position : SAP Fiori & Netweaver Consultant
+
+Responsibilities
+
+— Process analysis
+
+— Fiori configuration
+
+— Gateway Configuration and Gateway Abap
+
+— Implementation and development of PMHR .SD, SF processes
+— Test
+
+— Key user training

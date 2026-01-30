@@ -1,0 +1,52 @@
+Robert Smith Sore SRR
+
+Email: ininmqvekresune.com
+Website  wvay.cyikresume, com
+
+ur. Java Developer Linkedin: linkedin.com/qwikresurne
+‘Address: 1737 Marshville Road, Alabarna
+
+SUMMARY
+
+Jf-Java Developer with around 2 years of professional IT experience as a Programmer Analyst and
+Software Engineer with complete project lifecycle in java/)2Ee technologies, Experience in
+analysis, design, development, testing, integration, and deployment of application software in
+web-based environments and client/server architectures. strong experience in building the
+Frameworks using Struts Model-View-Contraller (MVC) and spring frameworks.
+
+SKILLS
+
+Java/)2EE Technologies
+WORK EXPERIENCE
+
+Jr. Java Developer
+
+SE? - February 2017 - Present
+Involving in gathering and analyzing functional requirements and converting to technical
+requirements
+Using Eclipse as IDE tool to develop the aplication and jra for bug and issue tracking
+Extensive experience in database programming on stored procedures, functions, and trlagers
+using (SQL, PLISQL) with Oracte
+Installing the application on AWS EC? instances and also configured the storage 53 buckets
+Designing and developing the Ul screens with Bootstrap and AngularJs to provide interactive
+screens to display data
+involving in the implementation of MVC pattern using Angular JS. JSF and spring controller
+Created aroovy scripts using the CL in spring boot for rapid application development
+
+Junior Java Developer
+
+ABC Corp - 2015 - 2016,
+Understood and produced the technical specifications for new or existing systems,
+Collaborated with the tearm in designing, architecting, implementing, and testing phases.
+Developed JEE Web applications using available tools &amp; technologies
+Researched technology solutions Samp: take charge of vetting and verifying solutions
+Made contribution in defining functional and non-functional requirements
+Performed the tasks with minimal direction or supervision.
+Provided guidance to other developers and monitor pragress to ensure a task is completed.
+
+EDUCATION
+
+Bachelors - (2012),
+
+(© The Eete Reatme Template the copilght of Qwikenume ccm, Uange Gildaines
+
