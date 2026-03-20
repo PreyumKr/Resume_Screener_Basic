@@ -91,6 +91,7 @@ def get_prediction_api(resume_text):
     except Exception as e:
         raise ValueError(f"API Error: {str(e)}")
 
+# Function to get prediction using local model
 def get_prediction(resume_text):
     pred_model = pickle.load(open('clf.pkl', 'rb'))
     tfidf = pickle.load(open('tfidf.pkl', 'rb'))
