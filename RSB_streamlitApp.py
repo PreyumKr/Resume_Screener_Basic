@@ -1,5 +1,5 @@
 import streamlit as st
-from utils import handle_file_upload, get_prediction
+from utils import handle_file_upload, get_prediction_api, get_prediction
 
 # Streamlit app layout
 def main():
@@ -25,6 +25,7 @@ def main():
             # Make prediction
             st.subheader("Predicted Category")
             # category = pred(resume_text)
+            # category = get_prediction_api(resume_text)
             category = get_prediction(resume_text)
             st.write(f"The predicted category of the uploaded resume is: **{category}**")
 

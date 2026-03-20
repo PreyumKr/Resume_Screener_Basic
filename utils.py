@@ -1,5 +1,6 @@
 import re
 import docx
+import pickle
 import PyPDF2
 import requests
 
@@ -76,7 +77,7 @@ def handle_file_upload(uploaded_file):
 
 
 # Function to get prediction from FastAPI server
-def get_prediction(resume_text):
+def get_prediction_api(resume_text):
     # For Docker 
     # Fast_API_URL = "http://localhost:8000/predict"
     # For K8s
@@ -89,3 +90,13 @@ def get_prediction(resume_text):
             raise ValueError(f"Error from Prediction Server: {response.status_code} - {response.text}")
     except Exception as e:
         raise ValueError(f"API Error: {str(e)}")
+
+def get_prediction(resume_text):
+    pred_model = pickle.load(open('clf.pkl', 'rb'))
+    tfidf = pickle.load(open('tfidf.pkl', 'rb'))
+    label_encoder = pickle.load(open('encoder.pkl', 'rb'))
+    cleaned_text = cleanResume(resume_text)
+    vectorized_text = tfidf.transform([cleaned_text]).toarray()
+    pred_label = pred_model.predict(vectorized_text)
+    pred_category = label_encoder.inverse_transform(pred_label)
+    return pred_category[0]
