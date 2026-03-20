@@ -20,7 +20,7 @@ def main():
 
             # Display extracted text (optional)
             if st.checkbox("Show extracted text", False):
-                st.text_area("Extracted Resume Text", resume_text, height=300)
+                st.text_area("Extracted Resume Text", resume_text, height=300, disabled=True)
 
             # Make prediction
             st.subheader("Predicted Category")

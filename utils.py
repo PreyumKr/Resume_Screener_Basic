@@ -1,8 +1,27 @@
 import re
+import io
 import docx
 import pickle
+import numpy as np
 import PyPDF2
 import requests
+from PIL import Image
+
+try:
+    from rapidocr_onnxruntime import RapidOCR
+except Exception:
+    RapidOCR = None
+
+_OCR_ENGINE = None
+
+
+def _get_ocr_engine():
+    global _OCR_ENGINE
+    if RapidOCR is None:
+        return None
+    if _OCR_ENGINE is None:
+        _OCR_ENGINE = RapidOCR()
+    return _OCR_ENGINE
 
 # Function to clean resume text
 def cleanResume(txt):
@@ -35,7 +54,33 @@ def extract_text_from_pdf(file):
     pdf_reader = PyPDF2.PdfReader(file)
     text = ''
     for page in pdf_reader.pages:
-        text += page.extract_text()
+        page_text = page.extract_text() or ''
+
+        # Fallback OCR for image-only PDF pages.
+        if not page_text.strip():
+            ocr_chunks = []
+            ocr_engine = _get_ocr_engine()
+            if ocr_engine is not None and hasattr(page, 'images'):
+                for image_file in page.images:
+                    try:
+                        image = Image.open(io.BytesIO(image_file.data)).convert('RGB')
+                        ocr_result, _ = ocr_engine(np.array(image))
+                        lines = []
+                        for item in ocr_result or []:
+                            # RapidOCR item format: [box_points, text, confidence]
+                            if len(item) > 1 and item[1]:
+                                lines.append(str(item[1]))
+                        ocr_text = '\n'.join(lines)
+                        if ocr_text.strip():
+                            ocr_chunks.append(ocr_text)
+                    except Exception:
+                        # Ignore bad/unsupported embedded images and continue.
+                        continue
+
+            if ocr_chunks:
+                page_text = '\n'.join(ocr_chunks)
+
+        text += page_text
     return text
 
 
