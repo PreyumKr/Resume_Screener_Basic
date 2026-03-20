@@ -29,8 +29,10 @@ def main():
             category = get_prediction(resume_text)
             st.write(f"The predicted category of the uploaded resume is: **{category}**")
 
+        except ModuleNotFoundError as e:
+            st.error(f"Error processing the file: Missing dependency in runtime environment.\nDetails: {str(e)}")
         except Exception as e:
-            st.error(f"Error processing the file: The API Seems to be Down.\nDetails: {str(e)}")
+            st.error(f"Error processing the file.\nDetails: {str(e)}")
 
 
 if __name__ == "__main__":
